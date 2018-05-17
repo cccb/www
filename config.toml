@@ -1,0 +1,29 @@
+baseURL = "http://berlin.ccc.de/"
+languageCode = "de-de"
+title = "Chaos Computer Club Berlin e.V."
+theme = "beautifulhugo"
+
+[Params]
+  subtitle = "Willkommen! Wir sind ein Erfa-Kreis des Chaos Computer Club e.V. und die örtliche Niederlassung des CCC in Berlin."
+  logo = "img/logo.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+
+[Author]
+  twitter = "clubdiscordia"
+  email = "mail@berlin.ccc.de"
+
+[[menu.main]]
+  name = "Impressum"
+  url = "page/impressum/"
+  weight = 500
+
+[[menu.main]]
+  name = "News"
+  url = "post/"
+  weight = 600
