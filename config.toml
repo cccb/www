@@ -13,6 +13,12 @@ theme = "beautifulhugo"
   comments = true
   readingTime = true
   useHLJS = true
+  DateForm = "30.12.2006"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
