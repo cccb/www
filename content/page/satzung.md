@@ -142,9 +142,8 @@ festgesetzt werden.
 
 Die Organe des Clubs sind:
 
-1\. die Mitgliederversammlung
-
-2\. der Vorstand
+1. die Mitgliederversammlung
+2. der Vorstand
 
 § 8: Mitgliederversammlung
 --------------------------
@@ -152,25 +151,16 @@ Die Organe des Clubs sind:
 \(1) Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer
 Beschlussfassung unterliegen:
 
-1\. die Genehmigung des Finanzberichtes.
-
-2\. die Entlastung des Vorstandes.
-
-3\. die Wahl der einzelnen Vorstandsmitglieder.
-
-4\. die Bestellung von Finanzprüfern.
-
-5\. Satzungsänderungen.
-
-6\. die Genehmigung der Beitragsordnung.
-
-7\. die Richtlinie über die Erstattung von Reisekosten und Auslagen.
-
-8\. Anträge des Vorstandes und der Mitglieder.
-
-9\. die Ernennung von Ehrenmitgliedern.
-
-10\. Die Auflösung des Clubs.
+1. die Genehmigung des Finanzberichtes.
+2. die Entlastung des Vorstandes.
+3. die Wahl der einzelnen Vorstandsmitglieder.
+4. die Bestellung von Finanzprüfern.
+5. Satzungsänderungen.
+6. die Genehmigung der Beitragsordnung.
+7. die Richtlinie über die Erstattung von Reisekosten und Auslagen.
+8. Anträge des Vorstandes und der Mitglieder.
+9. die Ernennung von Ehrenmitgliedern.
+10. Die Auflösung des Clubs.
 
 \(2) Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt.
 Außerordentliche Mitgliederversammlungen werden auf Beschluss des
