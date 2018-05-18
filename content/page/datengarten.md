@@ -32,17 +32,12 @@ Aktuelles
 -   [Datengarten Aufzeichnungen](https://media.ccc.de/c/datengarten/) @
     [C3VOC](https://c3voc.de/wiki/)
 
-Anstehende Datengärten
-----------------------
+Aktuelle Datengärten
+--------------------
 
 Beginn: jeweils um 20 Uhr im CCCB, Marienstr. 11 (Hinterhaus), 10117 Berlin 
 
-...
-
-Bisherige Datengärten
----------------------
-
-...
+{{<series "Datengarten">}}
 
 Archiv
 ------

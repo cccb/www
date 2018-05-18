@@ -1,0 +1,15 @@
+<p>
+<strong><i class="fa fa-user fa-fw"></i></strong> {{ .Page.Params.Speaker }}<br/>
+<strong><i class="fa fa-calendar fa-fw"></i></strong> {{ dateFormat "02.01.2006, 15:04" .Page.Params.Event_date }} Uhr<br/>
+<strong><i class="fa fa-language fa-fw"></i></strong> {{ .Page.Params.Language }}<br/>
+<strong><i class="fa fa-map-marker fa-fw"></i></strong> {{ partial "location" .Page.Params.Location }}
+</p>
+{{ if isset .Page.Params "recording" }}
+  <p><strong><i class="fa fa-video-camera fa-fw"></i></strong> <a href="{{ .Page.Params.Recording }}">{{ .Page.Params.Recording }}</a></p>
+{{ else }}
+  {{ if and (eq .Page.Params.Streaming true) (not (isset .Page.Params "recording" )) }}
+    <p><strong>Stream:</strong> <a href="https://streaming.media.ccc.de/datengarten">streaming.media.ccc.de/datengarten</a></p>
+  {{ else }}
+    <p><strong><i class="fa fa-exclamation-triangle fa-fw"></i></strong> Dieser Vortrag wird <strong>nicht</strong> gestreamed</a>! / This talk will <strong>not</strong> be streamed!</p>
+  {{ end }}
+{{ end }}
