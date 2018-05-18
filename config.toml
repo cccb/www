@@ -14,6 +14,9 @@ theme = "beautifulhugo"
   readingTime = true
   useHLJS = true
 
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+
 [Author]
   twitter = "clubdiscordia"
   email = "mail@berlin.ccc.de"
