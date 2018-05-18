@@ -11,7 +11,7 @@ Bitte beachte, dass Chaos Computer Club Berlin e.V. (kurz: CCCB) und Chaos Compu
 
 # Voraussetzungen 
 
-Im Gegensatz zum CCC e.V. ist der CCC Berlin e.V. (CCCB) etwas waehlerischer mit seinen Mitgliedern.  
+Im Gegensatz zum CCC e.V. ist der CCC Berlin e.V. (CCCB) etwas wählerischer mit seinen Mitgliedern.
 
 Wir nehmen nicht jedes Mitglied an, sondern entscheiden das in jedem Einzelfall getrennt.
 
@@ -19,9 +19,9 @@ Wir wollen die Menschen kennenlernen, bevor sie ein Mitglied im Verein werden ko
 
 Das Verfahren in etwa ist wie folgt (in chronologischer Reihenfolge):
 
-  * Du bist immer mal wieder am offenen Donnerstag im [Club Discordia](/page/clubdiscordia/) da, und lernst Leute kennen
+  * Du bist immer mal wieder an offenen Tagen im [Club Discordia](/page/clubdiscordia/) da, und lernst Leute kennen.
   * Du sprichst mit den 'regulars' und bittest darum, dich vorzustellen.
-  * Danach kannst Du einen Mitgliedsantrag ausfüllen und abgeben
+  * Danach kannst Du einen Mitgliedsantrag ausfüllen und abgeben.
   * Der Vorstand wird die Mitglieder auf der internen Mailingliste nach einem Meinungsbild befragen
   * Der Vorstand gibt Dir nach einiger Zeit bescheid, ob der Antrag angenommen wurde oder nicht.
 
@@ -37,15 +37,13 @@ Die sogenannte Doppelmitglieschaft, bei der CCCB-Mitglieder automatisch Mitglied
 
 Mitgliedsanträge liegen links oben im schwarzen Aussteller an der Metalltür. Alternativ gibt es sie als PDF-Datei zum ausdrucken.
 
-Ausgefüllte Mitgliedsanträge können via Post an den Vorstand geschickt oder im direkt Club abgegeben werden. Wer von einem Neuling einen Antrag entgegennimmt, legt den doch bitte gut sichtbar auf den Schreibtisch vor dem Darkroom.
+Ausgefüllte Mitgliedsanträge können via Post an den Vorstand geschickt oder im direkt Club abgegeben werden. Wer von einem Neuling einen Antrag entgegennimmt, legt diesen in das dafür vorgesehene Fach im Büro und gibt dem Vorstand per Mail bescheid. 
 
   * [Satzung des CCCB e.V.](/page/satzung/)
 
-Mitglieder des CCC Berlin e.V. müssen nicht gleichzeitig Mitglied des CCC e.V. sein, die Mitgliedschaft im CCC e.V. wird jedoch sehr empfohlen. Sie bedeutet auch Rabatt auf den Eintritt bei CCC-Veranstaltung sowie den Bezug der Datenschleuder, dem Vereinsorgan des CCC e.V.
+Mitglieder des CCC Berlin e.V. müssen nicht gleichzeitig Mitglied des CCC e.V. sein, die Mitgliedschaft in beiden Vereinen wird jedoch sehr empfohlen. Sie bringt unter anderem Rabatt auf den Eintritt bei CCC-Veranstaltung sowie den Bezug der [Datenschleuder](https://ds.ccc.de). Bitte beachte, dass du eine reguläre Mitgliedschaft beantragen solltest, nicht um die auf ccc.de beworbene Fördermitgliedschaft. Sprich uns einfach an und lies die [Satzung des CCC e.V.](https://www.ccc.de/club/statutes?language=de)
 
-  * [Satzung des CCC e.V.](http://www.ccc.de/club/statutes?language=de)
-
-**Bitte gib keinen Mitgliedsantrag ab, wenn Du nicht vorher im Club persoenlich bekannt bist!**
+**Bitte gib keinen Mitgliedsantrag ab, wenn Du nicht vorher im Club persönlich bekannt bist!**
 
 Mitgliedsanträge werden spätestens zum Monatsanfang des kommenden Monats bearbeitet. Die positive oder negative Entscheidung ueber die Annahme des Antrags auf Mitgliedschaft wird dir dann per E-Mail mitgeteilt.
 
@@ -60,7 +58,7 @@ Bitte beachte, dass folgende Felder ausgefüllt sind:
 
 Bitte beachte: Unsere Satzung erlaubt das Einladen zu Mitgliederversammlungen via Email. Zwecks Kostensparung möchten wir davon Gebrauch machen.
 
-Fragen zur Mitgliedschaft können an [vorstand@berlin.ccc.de](mailto:vorstand@berlin.ccc.de) gerichtet werden.
+Fragen zur Mitgliedschaft können an <vorstand@berlin.ccc.de> gerichtet werden.
 
 # Hinweise zu Zahlungsarten
 
