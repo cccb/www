@@ -8,7 +8,7 @@ menu:
 
 # Allgemeine Hinweise
 
-Die Clubräume liegen im Hinterhof in der **Marienstr. 11, 10117 Berlin** ([Google](http://maps.google.com/maps?hl=de&q=Marienstr.%2011%2C%2010117%20Berlin), [OpenStreetMap](http://www.openstreetmap.org/node/2007229025#map=17/52.52159/13.38547). Die Koordinaten sind **52,52194° Nord; 13,38261° Ost**.
+Die Clubräume liegen im Hinterhof in der **Marienstr. 11, 10117 Berlin** ([Google](http://maps.google.com/maps?hl=de&q=Marienstr.%2011%2C%2010117%20Berlin), [OpenStreetMap](http://www.openstreetmap.org/node/2007229025#map=17/52.52159/13.38547)). Die Koordinaten sind **52,52194° Nord; 13,38261° Ost**.
 
 # Nahbereichskarte
 
