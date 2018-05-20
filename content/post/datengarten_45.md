@@ -4,7 +4,7 @@ series: "Datengarten"
 title: Datengarten 45
 no: 45
 subtitle: "Aaadhaar: What kind of 'database state' is the Indian government creating?"
-date: 2015-07-04T00:00:00+02:00
+date: 2014-07-04T00:00:00+02:00
 event_date: 2014-07-04T20:00:00+02:00
 location: CCCB
 speaker: Sumandro Chattapadhyay

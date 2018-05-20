@@ -1,11 +1,10 @@
-------------------------------------------------------------------------------------------------------------------------------------------------
 ---
 categories: ["Datengarten"]
 series: "Datengarten"
 title: "Datengarten 66"
 no: 66
 subtitle: "Introduction to W3C & Securing the Open Web Platform"
-speaker:  Felix Sasaki, Georg Rehm, Wendy Seltzer
+speaker: "Felix Sasaki, Georg Rehm, Wendy Seltzer"
 date: 2016-05-10T00:00:00+02:00
 event_date: 2016-05-10T20:00:00+02:00
 location: CCCB
@@ -15,11 +14,11 @@ recording: https://media.ccc.de/v/dg66
 ---
 {{< datengarten-infobox >}}
 
-Part 1: A brief introduction to the W3C 
+#Part 1: A brief introduction to the W3C
 
 by Felix Sasaki and Georg Rehm (W3C Deutsch-Österr. Büro).
 
-Part 2: Securing the Open Web Platform by Wendy Seltzer
+#Part 2: Securing the Open Web Platform by Wendy Seltzer
 
 One of the Web’s greatest strengths is its generality—its openness to new links and unexpected uses. Openness also means that different applications and users have different security goals and threat models: a mash-up that’s desired by one may be dangerous to another. As stewards of the Open Web Platform, W3C aims to accommodate these different needs through modular components, including work on user security and authentication, cooperative policy enforcement, and platform-level reviews. W3C’s Wendy Seltzer explores design patterns and modularity to support a platform for trustworthy application development. We'll discuss what’s already been done, what’s in progress, and where we’re looking next to support an environment for trustworthy application development.
 
