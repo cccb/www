@@ -5,7 +5,7 @@ title: "Datengarten 79"
 no: 79
 subtitle: "Towards P2P Online Voting Protocols"
 speaker: Robert Riemann
-speaker_url: http://blog.riemann.cc/about
+speaker_url: https://blog.riemann.cc/about
 date: 2017-08-08T00:00:00+02:00
 event_date: 2017-08-08T20:00:00+02:00
 location: CCCB

@@ -18,7 +18,7 @@ recording: https://media.ccc.de/v/dg-68
 Als Nerd kommt man immer mal wieder in die Verlegenheit, eine nicht-statische Website ins Netz stellen zu muessen. Statt reflexartig zu fertigen CMS- oder Wikiloesungen zu greifen kann es in
 vielen Faellen vorteilhaft sein, eine fuer das jeweilige Problem massgeschneiderte Anwendung zu programmieren.
 
-Welche Gruende das sein koennten wird einen gewichtigen Teil des Vortrtags einnehmen - der Rest geht dann darum, das Webframework Pyramid <http://docs.pylonsproject.org/projects/pyramid/en/latest/> vorzustellen und weshalb es eine gute Basis fuer solche Anwendungen sein koennte.
+Welche Gruende das sein koennten wird einen gewichtigen Teil des Vortrtags einnehmen - der Rest geht dann darum, das Webframework Pyramid <https://docs.pylonsproject.org/projects/pyramid/en/latest/> vorzustellen und weshalb es eine gute Basis fuer solche Anwendungen sein koennte.
 
 Am konkreten Beispiel das Halfnarp (https://github.com/tomster/halfnarp) wird gezeigt, wie man ein Projekt von Null anfaengt und vor allem auch weiterpflegen kann.
 
