@@ -1,17 +1,17 @@
 ---
-categories:  ["Datengarten"]
-no: 88
-series: "Datengarten"
-streaming: true
-recording: https://media.ccc.de/v/dg-88
+categories: ["Datengarten"]
 tags: ["GPU", "Embedded", "Open Source"]
+series: "Datengarten"
 title: "Datengarten 88"
+no: 88
 subtitle: "Progress in the Embedded GPU space"
-speaker: "Robert Foss"
-location: "CCCB"
-language: Englisch
-date: 2018-04-10T11:00:00+02:00
+speaker: Robert Foss
+speaker_url: http://twitter.com/memcpy_io
+date: 2018-05-08T00:00:00+02:00
 event_date: 2018-05-08T20:00:00+02:00
+location: CCCB
+language: Englisch
+streaming: true
 ---
 {{< datengarten-infobox >}}
 
@@ -21,5 +21,4 @@ In just the last year Vivante GPUs have gained mainline support and Mali GPUs ha
 
 In this talk, Robert will cover GPUs in the embedded space and give an overview about their current status, what lies ahead and how the Open Source state of the art compares
 to the proprietary alternatives.
-
 

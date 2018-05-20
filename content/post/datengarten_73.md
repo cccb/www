@@ -1,0 +1,42 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 73"
+no: 73
+subtitle: "Hacking with Care - Tactical and ethical care for all"
+speaker: Jérémie Zimmermann
+speaker_url: https://twitter.com/hackingwithcare
+date: 2017-01-10T00:00:00+02:00
+event_date: 2017-01-10T20:00:00+02:00
+location: CCCB
+language: Englisch
+streaming: true
+recording: https://media.ccc.de/v/dg-73
+---
+{{< datengarten-infobox >}}
+
+We see everyday members of our communities -especially ones under high
+pressure- go burn-out, depressed, or worse. Caring about ourselves and
+others is a cultural and strategic blind spot for those, like us, who
+were born \"in\" a computer... At the other end of the spectrum,
+caregivers lack the understanding of technological realities that
+would be necessary to meaningfully reach and get in contact with us
+(OpSec and crypto among others).
+
+Hacking with Care aims at bridging this gap, by hacking care and
+well-being as a primary strategic objective of our movements, as well
+as a joyful tactics that can be shared around. Likewise, HwC aims at
+sharing hacker ethics and tools with caregivers, to enable them to
+better fulfill their missions.
+
+Hacking with Care is a lose collective, growing literally by contact
+and affinity, comprised of hackers, activists, massage, Chinese
+medicine practitioners, psycho- and motion-therapists, etc.
+
+Join us for a hands-on discussion about hacking collectively some of
+our most precious -yet sometimes unexplored-, complex and beautiful
+resources of all: our bodies and our minds!
+
+https://hackingwithcare.in/
+https://hackingwithcare.in/wiki/doku.php
+

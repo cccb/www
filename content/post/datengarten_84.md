@@ -1,0 +1,19 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 84"
+no: 84
+subtitle: "Connect St Helena - Unterseekabel für 4500 Menschen mitten im Südatlantik"
+speaker: Christian von der Ropp
+speaker_url: https://twitter.com/ConnectStHelena
+date: 2018-01-09T00:00:00+02:00
+event_date: 2018-01-09T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-84
+---
+{{< datengarten-infobox >}}
+
+Seit 2012 bemüht sich die Initiative 'Connect St Helena' der Südatlantikinsel St. Helena Anschluß an ein transatlantisches Unterseekabel zu verschaffen und so der Inselbevölkerung neue sozioökonomische Perspektiven zu eröffnen. Im Oktober 2017 kam es endlich zur Unterzeichnung einer Absichtserklärung zwischen Inselregierung und dem südafrikanischen Kabelunternehmen. Der Vortrag berichtet über Ursprung, Herausforderungen und Perspektiven des Projekts.
+

@@ -1,0 +1,40 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 74"
+no: 74
+subtitle: "Bitcoin: Privacy and Censorship Resistance Beyond the Web"
+speaker: Matt Corallo
+speaker_url: https://twitter.com/TheBlueMatt
+date: 2017-02-14T00:00:00+02:00
+event_date: 2017-02-14T20:00:00+02:00
+location: CCCB
+language: Englisch
+streaming: true
+recording: https://media.ccc.de/v/dg-74
+---
+{{< datengarten-infobox >}}
+
+In much of the western world, governments have developed the ability to
+prevent individuals or organizations from accessing financial services,
+with little or no court oversight or ability of those being marginalized
+to challenge the rulings. Under the guise of “terrorism” and \"protecting
+reputations\", individuals and organizations, from porn stars, to
+advocates for those illegally detained in Guantanamo Bay have found
+themselves unable to hold bank accounts, unable to accept payments
+online, or even had their funds seized without warning by both private
+and government actions. In the developing world, the situation can be
+just as, if not more, extreme.
+
+In the mean time, Bitcoin has been slowly shedding its anarchistic and
+anti-establishment origins and finding places where it can provide
+legitimate value within the current financial world. In this talk, we'll
+cover both how Bitcoin is in a unique position to provide activists and
+marginalized groups access to financial systems to ensure they can
+continue their work, while still meeting requirements placed on the
+financial system for reasonable law enforcement purposes. We'll touch on
+a few cryptographic primitives which, when combined with Bitcoin, can
+create incredibly practical and powerful tools to comply with regulation
+without giving up privacy, and of course cover a few common
+misconceptions about Bitcoin.
+

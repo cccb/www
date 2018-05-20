@@ -1,0 +1,21 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 78"
+no: 78
+subtitle: "Freifunk-OpenMPPT"
+speaker: Elektra Wagenrad
+speaker_url: https://twitter.com/elektra_42
+date: 2017-06-13T00:00:00+02:00
+event_date: 2017-06-13T20:00:00+02:00
+location: CCCB
+language: Englisch
+streaming: true
+recording: https://media.ccc.de/v/dg-78
+---
+{{< datengarten-infobox >}}
+
+OpenMTTP is a regulator designed for the Freifunk Mast project, which is used in refugee relief projects and other projects that require ad-hoc infrastructure. Elektra will present her design for energy-autonomous routers.
+
+
+

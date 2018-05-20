@@ -1,0 +1,23 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 76"
+no: 76
+subtitle: "Screening in Drug Design"
+speaker: Bernd
+date: 2017-04-11T00:00:00+02:00
+event_date: 2017-04-11T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-76
+---
+{{< datengarten-infobox >}}
+
+Bernd arbeitet am Leibniz-Institut für Molekulare Pharmakologie (FMP) und ist verantwortlich für das Design von Datenbanken chemischer Strukturen in der Arbeitsgruppe Computational Chemistry/Drug Design.
+
+Im Drug Design wird versucht neue Wirkstoffe zu finden oder bekannte Strukturen zu optimieren. Eine der Rechen aufwändigsten Strategien ist das Screening bzw.
+virtuelle Screening.
+
+Bernd wird nach einem allgemeinen Überblick genauer auf das Screening und virtuelle Screening eingehen.
+

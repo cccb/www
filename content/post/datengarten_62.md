@@ -1,0 +1,18 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 62"
+no: 62
+subtitle: "Wie funktioniert die EU - und warum sollte uns das interessieren?"
+speaker: fukami
+speaker_url: https://twitter.com/@fukami
+date: 2016-01-12T00:00:00+02:00
+event_date: 2016-01-12T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: false
+recording: https://media.ccc.de/v/datengarten-62-de-Wie_funktioniert_die_EU_-_und_warum_sollte_uns_das_interessieren
+---
+{{< datengarten-infobox >}}
+
+Ende des Jahres 2015 sind eine Reihe wichtiger europäischer Regelungen fertig verhandelt worden, wie z. B. die europäische Datenschutzgrundverordnung, die NIS- oder Trade-Secrets-Direktive, die im Besonderen Einfluss auf Technik haben. Wir wollen das zum Anlass nehmen, darüber zu diskutieren, wie die Europäische Union eigentlich funktioniert, welche Akteure in Brüssel aktiv sind, womit sich die europäischen Bürgerrechtsorganisationen in den alltäglichen Lobbyschlachten noch so rumschlagen müssen und wie eigentlich Einfluss auf europäische Politik genommen werden kann.

@@ -1,0 +1,38 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 69"
+no: 69
+subtitle: "Ethik des Digitalen"
+speaker: Daniel Domscheit-Berg
+speaker_url: https://de.wikipedia.org/wiki/Daniel_Domscheit-Berg
+date: 2016-09-13T00:00:00+02:00
+event_date: 2016-09-13T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-69
+---
+{{< datengarten-infobox >}}
+
+Etwas mehr als 30 Jahre nach der ersten Fassung einer ausformulierten
+Hackerethik sind Computer in allen Bereichen unseres Lebens angekommen.
+Ein ethisches Rahmenwerk, das vor Jahrzehnten in einer kleinen Nische
+der Gesellschaft erdacht wurde, ist mittlerweile hochrelevant für die
+gesellschaftliche Mitte.
+
+Der Vortrag wird sich mit der Hackerethik und ethischen Fragen des
+digitalen Zeitalters im Allgemeinen beschäftigen. Dafür werden wir den
+historischen Kontext der laufenden gesellschaftlichen Veränderungen
+betrachten, versuchen auszuloten, wohin das führt, und welche Rolle wir
+dabei spielen -- als Hacker wie auch als Menschen. Der Vortrag wird sich
+auseinandersetzen mit Fragen zu Transparenz und Privatsphäre, Macht, der
+Verteilung von Macht und der Verantwortung, die damit einhergeht sowie
+Technologie und Technologiefolgen. Dabei wird ein Bogen gespannt, der
+ganz unterschiedliche aktuelle Entwicklungen -- vom NSA Skandal bis zur
+Flüchtlingskrise -- miteinander verbindet und erklärt, warum diese
+Entwicklungen kein Zufall sind sondern komplementäre Teile eines
+Puzzles, das eine Zukunft abbildet, die wir uns heute oft noch nicht
+vorstellen können. Der Vortrag wird die Frage beantworten, was das alles
+für uns und alle Anderen bedeutet.
+

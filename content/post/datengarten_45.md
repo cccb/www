@@ -1,0 +1,82 @@
+---
+title: Datengarten 45
+subtitle: "Aaadhaar: What kind of 'database state' is the Indian government creating?"
+date: 2018-05-20T12:27:22+02:00
+draft: true
+---
+
+(Vortrag in englischer Sprache)
+
+A discussion of the Aadhaar project as a digital identity platform for
+governance
+
+Zeit und Ort
+------------
+
+8\. Juli 2014, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
+
+Abstract
+--------
+
+As part of my larger academic interest in the history of electronic
+governance and computing by the Government of India since 1960s, I have
+been studying the making and activities of the Unique Identification
+Authority of India (UIDAI). UIDAI was instituted in 2009 to assign
+unique biometrics- linked identification numbers, branded as Aadhaar
+numbers, to all the residents of India. The growing literature about
+this Aadhaar project focus on various topics such as implications for
+citizenship, for efficiency of governmental services, for formalisation
+and unification of unorganised banking and welfare-accessing practices.
+As opposed to socio-legal critiques offered by most researchers and
+activists in India, I discuss the technological imagination and the
+materiality of the database system being designed and deployed as part
+of the Aadhaar project. I argue that it is crucial to develop a close
+understanding of the specific form of data collection, management,
+archiving, sharing by the Aadhaar project and the software
+infrastructure it is building to enable various government and
+commercial agencies to implement a single identity platform for tracking
+their interactions with citizens/consumers.
+
+Like all 'new' technologies, the Aadhaar project involves a continued
+engagement and negotiations with older technological infrastructures and
+socio-technical practices. I will argue here that this newness is to be
+found in the idea of the digital ‘identity platform,' as opposed to the
+demographic and biometric data it gathers. In my exploration, I closely
+study the official reports and technical documents published by UIDAI to
+understand its techno-infrastructural proposals and their potential
+consequences in the context of the recent history of electronic
+governance and national identity card policy in India. My research is
+also guided by the project's self-description as an 'identity platform,'
+which needs to be understood within the specific technological paradigm
+of information production and circulation as captured by the notion of
+the 'platform' as a site for capturing and monetising user behaviour
+data. In conclusion, I reflect on the potential nature of the database
+state being conceptualised and realised through the Aadhaar project.
+
+Referent
+--------
+
+Sumandro Chattapadhyay\
+
+Biographic Note
+---------------
+
+I am a researcher interested in the history and politics of informatics
+in India, media and technology studies, and political economy. I am a
+Research Associate at The Sarai Programme in the Centre for the Study of
+Developing Societies, Delhi, India, and contribute to the ongoing
+research project on 'media and information infrastructures.' I also
+periodically work with the Centre for Internet and Society, Bangalore,
+on topics of open data policy, open access and Internet governance.
+Previously, I have worked with MOD Institute on issues of affordable
+housing, urban security and ICTs and urban governance; and have led a
+data analysis and visualisation team at the Azim Premji University,
+Bangalore, India. I studied economics in Visva-Bharati, Shantiniketan,
+and in Jawaharlal Nehru University, Delhi.
+
+Links
+-----
+
+-   Personal Website: [ajantriks.net](http://ajantriks.net)
+-   The Sarai Programme: [sarai.net](http://sarai.net)
+-   Centre for the Study of Developing Societies: [csds.in](http://csds.in)

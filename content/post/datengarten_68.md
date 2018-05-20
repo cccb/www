@@ -1,0 +1,26 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 68"
+no: 68
+subtitle: "Pyramid - das Webframework fuer Erwachsene"
+speaker: tomster
+speaker_url: https://tomster.org
+date: 2016-07-12T00:00:00+02:00
+event_date: 2016-07-12T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-68
+---
+{{< datengarten-infobox >}}
+
+Als Nerd kommt man immer mal wieder in die Verlegenheit, eine nicht-statische Website ins Netz stellen zu muessen. Statt reflexartig zu fertigen CMS- oder Wikiloesungen zu greifen kann es in
+vielen Faellen vorteilhaft sein, eine fuer das jeweilige Problem massgeschneiderte Anwendung zu programmieren.
+
+Welche Gruende das sein koennten wird einen gewichtigen Teil des Vortrtags einnehmen - der Rest geht dann darum, das Webframework Pyramid <http://docs.pylonsproject.org/projects/pyramid/en/latest/> vorzustellen und weshalb es eine gute Basis fuer solche Anwendungen sein koennte.
+
+Am konkreten Beispiel das Halfnarp (https://github.com/tomster/halfnarp) wird gezeigt, wie man ein Projekt von Null anfaengt und vor allem auch weiterpflegen kann.
+
+Dabei wird vor allem darauf eingegangen, wie man dabei mit moeglichst wenig Overhead so furchtbar laestige Aspekte wie Sicherheit, Testing, Packaging und Deployment anpacken kann - weil anders als bei fertigen Loesungen ist man bei eigenen Anwendungen naemlich hinterher leider selber Schuld, wenn einem das schoene Teil dann um die Ohren fliegt. Der Vortrag geht im Kern darum, wie man am besten aus dieser Not eine Tugend machen kann.
+

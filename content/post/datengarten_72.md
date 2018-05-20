@@ -1,0 +1,22 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 72"
+no: 72
+subtitle: "Lightning Talks"
+speaker: starbug, N-te, Marko, DC4LW, Ligi, melle
+date: 2016-12-13T00:00:00+02:00
+event_date: 2016-12-13T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-72
+---
+{{< datengarten-infobox >}}
+
+Lightning talks are 10 minute talks about *anything*. Well, anything that won't make other people want to throw you out. But still, it can be about anything that you really have to tell everybody else. An idea you have, a problem you cannot solve, your favourite tool or just about anything you think everybody else should have heard about (i.e. the awesome talk you will be giving soon)! It's really up to you! 
+
+More information and the possibility to sign up can be found here: https://cccb.pads.ccc.de/40
+
+(If there are spaces left, we will also allow spontaneous talks. But if you wanna make sure to get a slot, sign up!)
+

@@ -1,0 +1,33 @@
+---
+title: "Datengarten 48"
+subtitle: "Transport Layer Security (TLS)"
+date: 2015-03-31T00:00:00+02:00
+---
+
+-   Termin: Dienstag, 31.3.2015
+-   Referent: hannes <https://twitter.com/h4nnes>
+
+Transport Layer Security ist das meist benutzte Sicherheitsprotokoll im
+Internet. In den letzten Monaten und Jahren wurden vermehrt diverse
+Sicherheitsluecken in weit verbreiteten Implementierungen gefunden
+(Apple's goto fail, Heartbleed, Freak, Triple Handshake, Poodle, ...).
+Liefert TLS uns die Sicherheit, fuer die es urspruenglich geschaffen
+wurde?
+
+Diese ruehren daher, dass viele Implementierungen durchaus umfangreich
+sein muessen: TLS benutzt verschiedene kryptographische Methoden, X.509
+(codiert in ASN.1) Zertifikate zur Authentifizierung, die API von vielen
+Bibliotheken ist komplex. Ausserdem sind mehrere Versionen von TLS
+standardisiert, die unterstuetzt werden.
+
+In dem Vortrag wird hannes kurz das TLS Protokoll erklaeren, einige
+Fehlerklassen beschreiben, und einen Programmierstil vorstellen, um
+solche Fehlerklassen zu vermeiden. Diesem Stil folgend hat hannes im
+letzten Jahr TLS implementiert, dass viele diese Fehlerklassen nicht
+beinhaltet.
+
+Links zum Thema
+
+-   <https://github.com/mirleft/ocaml-tls>
+-   <https://tls.openmirage.org>
+-   <http://ownme.ipredator.se>

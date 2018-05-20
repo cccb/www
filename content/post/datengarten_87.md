@@ -1,0 +1,33 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 87"
+no: 87
+subtitle: "Verilog Design Pattern"
+speaker: hsank
+date: 2018-04-10T00:00:00+02:00
+event_date: 2018-04-10T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-87
+---
+{{< datengarten-infobox >}}
+
+In den letzten Jahren ist Verilog sehr populär bei Hackern geworden - angetrieben nicht zuletzt vom Hype, den die FOSS Yosys Toolchain für iCE40 FPGAs ausgelöst hat.
+
+Es ist ebenso ein bekannter Fakt, das jeder schneller etwas lernt, wenn ein erfahrener Hacker etwas davon zu erzählen weiss. Ich bin seit rund zwei Dekaden (selbständiger) Chip Designer und möchte gern wertvolle Design Patterns in Verilog weitergeben.
+}}
+Design Pattern meint,
+
+- Coding Styles die schnell zu lesbarem Code führen,
+- wie endliche Automaten schnell und einfach zu schreiben sind, und warum sie so nützlich sind,
+- wie Clock-Domain-Übergänge unfallfrei zu handhaben sind und warum sie notwendig sein könnten,
+- wie Quelltexte strukturiert werden können,
+- wie Makefiles für die Chipentwicklung genutzt werden können,
+
+und vieles, vieles mehr.
+
+Alles wird anhand von Beispielen erklärt.
+
+Und, ich werde erst aufhören, wenn die Zeit für diesen Datengarten definitiv abgelaufen ist.

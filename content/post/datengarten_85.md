@@ -1,0 +1,21 @@
+---
+categories: ["Datengarten"]
+series: "Datengarten"
+title: "Datengarten 85"
+no: 85
+subtitle: "Crisis Response Makerspace in Berlin"
+speaker: Sebastian Juenemann und Verena Lauble
+date: 2018-02-13T00:00:00+02:00
+event_date: 2018-02-13T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/dg-85
+---
+{{< datengarten-infobox >}}
+
+CADUS ist eine humanitäre Hilfsorganisation, die sich vor ca. 3 Jahren aus einem eher subkulturellen Umfeld gegründet hat. Am Anfang wußten wir nur, dass wir unsere Kapazitäten und Kompetenzen in Bezug auf improvisieren und finden von Lösungen gern für was „sinnvolles“ einsetzen würden. 
+Mittlerweile sind wir mit einem selbst gebauten mobilen Krankenhaus im Nordirak im Einsatz. 
+Bei unseren Einsätzen in Krisen- und Kriegsgebieten fallen uns immer wieder Dinge ein und auf, für die es technische oder logistische Lösungen bräuchte. Aber niemand entwickelt daran. Deswegen haben wir parallel zu unseren operations den Crisis Response Makerspace gegründet. Ein Makerspace, der sich komplett darauf konzentriert, Lösungen für humanitäre Probleme auf technischer Ebene zu entwickeln. 
+Im Datengarten wollen wir den Makerspace vorstellen, und einige der Projekte, an denen grade gearbeitet/herumgedacht wird. Außerdem einladen, wie wann und wo sich Menschen am Makerspace beteiligen können.
+
