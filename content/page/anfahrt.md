@@ -3,7 +3,7 @@ title: "Anfahrt"
 date: 2018-05-17T23:04:10+02:00
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "verein"
 ---
 
 # Allgemeine Hinweise
