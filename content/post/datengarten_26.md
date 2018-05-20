@@ -2,10 +2,13 @@
 title: "Datengarten 26"
 subtitle: "Microcontroller - kleine Computer"
 date: 2007-07-05T00:00:00+02:00
+event_date: 2007-07-05T00:00:00+02:00
+location: CCCB
+speaker: Eugen und Dexter
+language: Deutsch
+streaming: false
 ---
-
-Info:
------
+{{< datengarten-infobox >}}
 
 Der Datengarten richtet sich an Leute die sich gerne mal mit
 Mikrocontrollern und Mikroelektronik beschäftigen wollen. Wir vermitteln

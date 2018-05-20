@@ -2,15 +2,14 @@
 title: "Datengarten 58"
 subtitle: "Circumvent WPA2"
 date: 2015-10-13T00:00:00+02:00
+event_date: 2015-10-13T20:00:00+02:00
+location: CCCB
+speaker: warker
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/58
 ---
-
--   Referent: warker
--   Termin: Dienstag, 13. Oktober 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
--   Sprache: Deutsch
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 In diesem Vortrag soll es darum gehen wie die Sicherheit die WPA/WPA2
 bietet, durch verschiedene Protokolle oder Implementationen untergraben

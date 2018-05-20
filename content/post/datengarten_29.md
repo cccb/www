@@ -2,12 +2,13 @@
 title: "Datengarten 29"
 subtitle: "Solarsegler"
 date: 2008-11-27T00:00:00+02:00
+event_date: 2008-11-27T00:20:00+02:00
+location: CCCB
+speaker: Karin Remeikes
+language: Deutsch
+streaming: false
 ---
-
-Datengarten 29 beschäftigt sich mit Solarseglern.
-
-Kurzfassung
------------
+{{< datengarten-infobox >}}
 
 Cosmos I ist das erste Solarseglerprojekt. Es wurde 2001 gestartet, aber
 bisher nicht erfolgreich in den Orbit gebracht. Die Idee besteht darin,
@@ -25,11 +26,6 @@ Referentin
 
 Karin Remeikes hat für die *Planetary Society* an dem Cosmos-I-Projekt
 mitgewirkt.
-
-Zeit und Ort
-------------
-
-27\. November 2008, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
 
 Weblinks
 --------

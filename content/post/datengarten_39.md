@@ -1,8 +1,15 @@
 ---
 title: "Datengarten 39"
+no: 39
 subtitle: "Cubesat Projekt GLORIA"
 date: 2012-03-01T00:00:00+02:00
+event_date: 2012-03-01T00:00:00+02:00
+location: CCCB
+speaker: Sean/Raphael
+language: Englisch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 GLORIA PILOT MISSION PROPOSAL
 -----------------------------

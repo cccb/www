@@ -2,9 +2,13 @@
 title: "Datengarten 28"
 subtitle: "Weltraummedizinforschung"
 date: 2008-10-16T00:00:00+02:00
+event_date: 2008-10-16T00:00:00+02:00
+location: CCCB
+speaker: Dr. Bergita Ganse
+language: Deutsch
+streaming: false
 ---
-
-Der Datengarten 28 beschäftigt sich mit *Weltraummedizinforschung*.
+{{< datengarten-infobox >}}
 
 Inhalt
 ------
@@ -18,13 +22,3 @@ Inhalt
     -   Bedrest-Studie,
     -   Neumayer-Station in der Antarktis
     -   usw.
-
-Referentin
-----------
-
-Dr. Bergita Ganse
-
-Ort und Zeit
-------------
-
-Donnerstag, 16. Oktober 2008 im CCCB, Marienstr. 11, 10117 Berlin, 20 Uhr

@@ -1,18 +1,19 @@
 ---
 title: "Datengarten 53"
+no: 53
 subtitle: "Little big data"
 date: 2015-06-09T00:00:00+02:00
+event_date: 2015-06-09T20:00:00+02:00
+location: CCCB
+speaker: erdgeist
+speaker_url: https//erdgeist.org/
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
--   Referent: [erdgeist](https://erdgeist.org/)
-    ([@erdgeist](https://twitter.com/erdgeist))
--   Wegen einiger bedenklicher rechtlicher Aspekte wird es leider weder
-    Stream noch eine Aufzeichnung geben. Ich bitte um Verständnis.
--   Termin: 9. Juni 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
-
-Beschreibung
-------------
+Hinweis: Wegen einiger bedenklicher rechtlicher Aspekte wird es leider weder
+Stream noch eine Aufzeichnung geben. Ich bitte um Verständnis.
 
 Ein Geheimdienst im 21. Jahrhundert, der was auf sich hält, muss Big
 Data machen: Möglichst alles über alle Bürger sammeln, horten,
@@ -34,5 +35,3 @@ Starren auf Binärmuster, um den Geheimnissen der Encraption auf den
 Grund zu gehen und dem überwältigenden Gefühl, mal an Datenmengen zu
 schnuppern, die noch vor ein paar Jahren problemlos als “Big Data”
 durchgegangen wären.
-
-<Kategorie:Datengarten>

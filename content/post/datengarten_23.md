@@ -1,8 +1,18 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 23"
+no: 23
 subtitle: "Datenübertragung über Satellit - Wie die Daten vom Himmel fallen"
+speaker: FrankRo
 date: 2006-06-08T00:00:00+02:00
+event_date: 2006-06-08T20:00:00+02:00
+streaming: false
+recording: https://media.ccc.de/v/dg-23
+location: CCCB
 ---
+
+{{< datengarten-infobox >}}
 
 Über Satellit, Kabel und terrestrische Fernsehsender werden nicht nur
 Fernsehprogramme in digitaler Form übertragen, sondern auch Datendienste
@@ -17,5 +27,3 @@ man mit entsprechendem Empfangsequipment die Lauscher aufstellen kann.
 
 Im Anschluss gibts dann ein Hands-on Workshop für das DVB-Subsystem
 unter Linux, wo das gelernte praktisch demonstriert wird.
-
-[Vortrag als MP3 (24 MB)](https://media.ccc.de/v/dg-23)

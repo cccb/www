@@ -1,9 +1,15 @@
 ---
 title: "Datengarten 37"
+no: 37
 subtitle: "Embedded analysis workshop 2011 (Part I)"
 date: 2011-05-12T00:00:00+02:00
+event_date: 2011-05-12T20:00:00+02:00
+location: CCCB
+speaker: cyphunk/Nathan
+language: Englisch
+streaming: false
 ---
-Was May 12th 20:00.
+{{< datengarten-infobox >}}
 
 based on the tools presented at the 27c3
 ([video](http://www.youtube.com/watch?v=YD7UY0CBvnY),

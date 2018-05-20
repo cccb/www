@@ -1,11 +1,19 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 22"
+no: 22
 subtitle: "voicemail und telefonsysteme: was erwartet euch?"
+speaker: t
+speaker_url: "t@cbase.org"
+location: CCCB
 date: 2006-02-02T00:00:00+02:00
+event_date: 2006-02-02T20:00:00+02:00
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
-[Datengarten](Datengarten "wikilink") 22 am Donnerstag, 2.2.2006 um
-20.00 Uhr von t (t@c-base.org)
 
 `      _`\
 `     //\`\

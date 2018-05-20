@@ -1,13 +1,17 @@
 ---
 title: "Datengarten 51"
+no: 51
 subtitle: "Puppet … Konfigurationsmanagement"
 date: 2015-05-12T00:00:00+02:00
+event_date: 2015-05-12T20:00:00+02:00
+location: CCCB
+speaker: Robert
+speaker_url: https://twitter.com/zero\_0ne
+language: Deutsch
+streaming: yes
+recording: https://media.ccc.de/v/dg51-puppet
 ---
-
--   Referent: Robert (https://twitter.com/zero\_0ne)
--   Termin: Dienstag, 12.5.2015, 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
--   Voraussetzungen: keine, der Eintritt ist kostenlos
+{{< datengarten-infobox >}}
 
 "Puppet … Konfigurationsmanagement“ (KM; englisch configuration
 management, CM) ist eine Managementdisziplin, die organisatorische und

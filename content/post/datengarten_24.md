@@ -1,14 +1,15 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 24"
+no: 24
 subtitle: "Retrocomputing oder: Wie waren Computer früher?"
+speaker: Dexter
+language: Deutsch
+location: CCCB
 date: 2006-12-10T00:00:00+02:00
+event_date: 2006-12-10T20:00:00+02:00
 ---
-
-
-Referenten
-----------
-
--   Dexter
 
 Zusammenfassung
 ---------------

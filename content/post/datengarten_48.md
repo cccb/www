@@ -1,11 +1,17 @@
 ---
 title: "Datengarten 48"
+no: 48
 subtitle: "Transport Layer Security (TLS)"
 date: 2015-03-31T00:00:00+02:00
+event_date: 2015-03-31T00:00:00+02:00
+location: CCCB
+speaker: hannes
+speaker_url: https://twitter.com/h4nnes
+language: Deutsch
+streaming: yes
+recording: https://media.ccc.de/v/dg48-tls
 ---
-
--   Termin: Dienstag, 31.3.2015
--   Referent: hannes <https://twitter.com/h4nnes>
+{{< datengarten-infobox >}}
 
 Transport Layer Security ist das meist benutzte Sicherheitsprotokoll im
 Internet. In den letzten Monaten und Jahren wurden vermehrt diverse

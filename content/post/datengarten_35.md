@@ -2,6 +2,11 @@
 title: "Datengarten 35"
 subtitle: "Stalker - das Buch, der Film, das Game, der Mensch"
 date: 2009-11-05T00:00:00+02:00
+event_date: 2009-11-05T20:00:00+02:00
+location: CCCB
+speaker: Bernd, Andrej
+language: Deutsch
+streaming: false
 ---
 
 Zusammenfassung

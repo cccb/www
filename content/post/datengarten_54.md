@@ -1,17 +1,18 @@
 ---
 title: "Datengarten 54"
+no: 54
 subtitle: "Das Internet hinter Eurem DSL Modem"
 date: 2015-06-23T00:00:00+02:00
+event_date: 2015-06-23T20:00:00+02:00
+location: CCCB
+speaker: Kay
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
--   Referent: Kay
--   Wegen einiger bedenklicher Aspekte wird es leider weder Stream noch
-    eine Aufzeichnung geben. Wir bitten um Verständnis.
--   Termin: Dienstag, 23. Juni 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
-
-Beschreibung
-------------
+Wegen einiger bedenklicher Aspekte wird es leider weder Stream noch
+eine Aufzeichnung geben. Wir bitten um Verständnis.
 
 Das Internet. Kommt aus der Wand, sollte immer funktionieren und
 beinhaltet viel zu viele Katzen.

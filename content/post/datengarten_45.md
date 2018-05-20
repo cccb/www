@@ -1,19 +1,18 @@
 ---
 title: Datengarten 45
+no: 45
 subtitle: "Aaadhaar: What kind of 'database state' is the Indian government creating?"
-date: 2018-05-20T12:27:22+02:00
-draft: true
+date: 2018-05-20T00:00:00+02:00
+event_date: 2018-05-20T20:00:00+02:00
+location: CCCB
+speaker: Sumandro Chattapadhyay
+language: Englisch
+streaming: no
 ---
-
-(Vortrag in englischer Sprache)
+{{< datengarten-infobox >}}
 
 A discussion of the Aadhaar project as a digital identity platform for
 governance
-
-Zeit und Ort
-------------
-
-8\. Juli 2014, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
 
 Abstract
 --------
@@ -52,11 +51,6 @@ of information production and circulation as captured by the notion of
 the 'platform' as a site for capturing and monetising user behaviour
 data. In conclusion, I reflect on the potential nature of the database
 state being conceptualised and realised through the Aadhaar project.
-
-Referent
---------
-
-Sumandro Chattapadhyay\
 
 Biographic Note
 ---------------

@@ -1,11 +1,17 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 20"
+no: 20
 subtitle: "Pile und die paranoide Maschine"
+speaker: "Peter Krieg"
 date: 2005-08-18T00:00:00+02:00
+event_date: 2005-08-18T20:00:00+02:00
+location: CCCB
+language: Deutsch
+streaming: false
 ---
-
-**[Datengarten](Datengarten "wikilink") \#20 am 18. August 2005 mit
-Peter Krieg**
+{{< datengarten-infobox >}}
 
 Peter Krieg hat früher einmal Dokumentarfilme gedreht, in einem sehr
 kühlen Stil, dabei fachlich fundiert, etwa *Septemberweizen*. Dann hat
@@ -50,8 +56,4 @@ Network):
 
 `   `[`http://pilesys.com/Workshop.htm`](http://pilesys.com/Workshop.htm)
 
-Anfragen gerne auch direkt an mich
-
-Peter Krieg kriegpeter@pilesys.com
-
-<Kategorie:Datengarten>
+Anfragen gerne auch direkt an mich: Peter Krieg <kriegpeter@pilesys.com>

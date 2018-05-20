@@ -2,11 +2,16 @@
 title: "Datengarten 34"
 subtitle: "The social web"
 date: 2009-10-22T00:00:00+02:00
+event_date: 2009-10-22T00:00:00+02:00
+location: CCCB
+speaker: Henry Story
+speaker_url:
+language: Englisch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 **How to free yourself of your social networks and create a global community**
-
-Referent: Henry Story
 
 On current Social Networks (Facebook, Orkut, LinkedIn,...) every user has a limited view of the network available to him. The provider on the other hand has a complete view of the network. In the case of Facebook this can be huge: it has a view of the full 250 million members and their relationships. This is just one of the many problems with current social networks.
 

@@ -2,10 +2,13 @@
 title: "Datengarten 27"
 subtitle: "The Incredible Dirty Bomb Hoax oder: warum wir dringend eine bemannte Marsmission brauchen"
 date: 2008-09-18T00:00:00+02:00
+event_date: 2008-09-18T20:00:00+02:00
+location: CCCB
+speaker: Bernd
+language: Deutsch
+streaming: false
 ---
-
-Zusammenfassung
----------------
+{{< datengarten-infobox >}}
 
 Seit Jahren geistert die Bedrohung einer “schmutzigen Bombe” durch die
 Medien, die von Terroristen gegen die freie Welt eingesetzt werden
@@ -26,22 +29,10 @@ verarscht zu werden.
 Erfahre die reine Wahrheit (und die Alternativen) im
 CCC-Datengarten-mit-Praktikum 18.9.08, Berlin...
 
-Referent
---------
-
-Bernd
-
-Ort und Zeit
-------------
-
-18\. September 2008, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
-(Datengarten 27)
-
 Material
 --------
 
--   PDF der Präsentation: [Media:DirtyBombHoax
-    praes.pdf](Media:DirtyBombHoax_praes.pdf "wikilink")
+-   PDF der Präsentation: [Media:DirtyBombHoax praes.pdf](Media:DirtyBombHoax_praes.pdf "wikilink")
 
 ### Links aus dem Vortrag
 

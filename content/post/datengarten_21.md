@@ -1,12 +1,17 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 21"
+no: 21
 subtitle: "MentalSky – Personal Information Management, Networked Semantic Desktop"
+speaker: "Till Helmbold (HereToGo environment)"
 date: 2005-11-17T00:00:00+02:00
+event_date: 2005-11-17T20:00:00+02:00
+language: Deutsch
+location: CCCB
+streaming: false
 ---
-
-[Datengarten](Datengarten "wikilink") 21: Till Helmbold (HereToGo
-environment): *MentalSky – Personal Information Management, Networked
-Semantic Desktop* am 17. November 2005 um 20 Uhr
+{{< datengarten-infobox >}}
 
 Beschreibung
 ------------
@@ -44,9 +49,9 @@ Implementiert werden soll. Sie haben einen Java3d Prototypen für das
 Zooming User Interface der Map sowie diverse Materialien zur
 Beschreibung des Projektes.
 
-Weblink
--------
+Weblinks
+--------
 
--   [mentalsky.net](http://mentalsky.net/)
--   [semanticdesktop.org](http://www.semanticdesktop.org/)
--   [wiki auf semanticdesktop.org](http://www.semanticdesktop.org/xwiki/bin/Wiki/)
+ - [mentalsky.net](http://mentalsky.net/)
+ - [semanticdesktop.org](http://www.semanticdesktop.org/)
+ - [wiki auf semanticdesktop.org](http://www.semanticdesktop.org/xwiki/bin/Wiki/)

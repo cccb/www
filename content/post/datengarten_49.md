@@ -1,15 +1,16 @@
 ---
 title: "Datengarten 49"
+no: 49
 subtitle: "No more secrets: Biometrie hacken"
 date: 2015-04-09T00:00:00+02:00
+event_date: 2015-04-09T20:00:00+02:00
+location: CCCB
+speaker: Starbug
+language: Deutsch
+streaming: false
+recording: https://media.ccc.de/v/dg49-biometrie
 ---
-
--   Referent: Starbug
--   Mitschnitt:
-    <http://media.ccc.de/browse/events/datengarten/dg49-biometrie.html#video>
--   Termin: Donnerstag, 9.4.2015 ab 20 Uhr
--   Ort: [CCCB](Chaos_Computer_Club_Berlin "wikilink"), Marienstraße 11,
-    10117 Berlin,
+{{< datengarten-infobox >}}
 
 Es gibt viele Möglichkeiten biometrische Systeme zu hacken. Manche sind
 offensichtlich, manche selbst für Hollywoodfilme zu bizarr. In diesem

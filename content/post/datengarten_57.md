@@ -2,12 +2,15 @@
 title: "Datengarten 57 Spezial"
 subtitle: "From Secret Manoeuvres to Undercover Research"
 date: 2015-09-28T00:00:00+02:00
+event_date: 2015-09-28T20:00:00+02:00
+location: c-base, Rungestrasse 20, 10179 Berlin
+speaker: Eveline Lubbers
+speaker_url:
+language: Englisch
+streaming: true
+recording: https://media.ccc.de/v/dg57_From_Secret_Manoeuvres_to_Undercover_Research
 ---
-
--   Referent: Eveline Lubbers
--   Date: Monday, 28th of September 2015 at 20 Uhr
--   Location: c-base, Rungestrasse 20, 10179 Berlin
--   Language: talk will be given in English
+{{< datengarten-infobox >}}
 
 Beschreibung Deutsch
 --------------------

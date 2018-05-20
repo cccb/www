@@ -2,15 +2,14 @@
 title: "Datengarten 60"
 subtitle: "NinjaPCR"
 date: 2015-11-17T00:00:00+02:00
+event_date: 2015-11-17T20:00:00+02:00
+location: CCCB
+speaker: Shingo Hisakawa
+language: Englisch
+streaming: yes
+recording: https://media.ccc.de/v/dg60_NinjaPCR
 ---
-
--   Speaker: Shingo Hisakawa
--   Date: Tuesday, 17. November 2015 at 20 o' clock
--   Location: Chaos Computer Club Berlin (CCCB), Marienstraße 11, 10117 Berlin
--   Language: English
-
-Description
------------
+{{< datengarten-infobox >}}
 
 The mass production of DNA amplifiers, which are essential in gene
 testing, has become cheap and stable enough that no longer do we have to

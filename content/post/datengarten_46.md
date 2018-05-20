@@ -2,10 +2,13 @@
 title: "Datengarten 46"
 subtitle: "CITIZENFOUR"
 date: 2015-02-03T00:00:00+02:00
+event_date: 2015-02-03T20:00:00+02:00
+location: CCCB
+speaker: Datengarten Team
+language: Englisch
+streaming: no
 ---
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 Mit ausdrücklicher Genehmigung von Laura Poitras \[0\] präsentiert der
 erste Datengarten 2015 den Dokumentarfilm CITIZENFOUR. Citizen Four war

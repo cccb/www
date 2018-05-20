@@ -1,14 +1,16 @@
 ---
 title: "Datengarten 52"
+no: 52
 subtitle: "Reproducible Builds"
 date: 2015-05-26T00:00:00+02:00
+event_date: 2015-05-26T20:00:00+02:00
+location: CCCB
+speaker: h01ger
+language: Deutsch
+streaming: yes
+recording: https://media.ccc.de/v/dg52-reproducablebuilds
 ---
-
-DG52: Reproducible Builds
--------------------------
-
-Referent: h01ger Termin: Dienstag, 26.5.2015 20:00 Uhr Ort: CCCB,
-Marienstraße 11, 10117 Berlin,
+{{< datengarten-infobox >}}
 
 With free software, anyone can inspect the source code for malicious
 flaws. But Debian provide binary packages to its users. The idea of

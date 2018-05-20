@@ -2,7 +2,14 @@
 title: "Datengarten 25"
 subtitle: "Chipkarten oder: Die Welt ist ein Rechteck und hat Goldkontakte"
 date: 2006-07-12T00:00:00+02:00
+event_date: 2006-07-12T20:00:00+02:00
+location: CCCB
+speaker: Dexter
+language: Deutsch
+streaming: false
+recording: https://media.ccc.de/v/dg-25
 ---
+{{< datengarten-infobox >}}
 
 Das Thema Chipkarten ist komplex, wer in die Thematik einsteigen will,
 muss sich erst einmal durch einen Wust von Normen und Protokollen

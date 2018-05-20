@@ -2,7 +2,13 @@
 title: "Datengarten 31"
 subtitle: "Dem Compiler beim Optimieren zuschauen"
 date: 2009-06-25T00:00:00+02:00
+event_date: 2009-06-25T20:00:00+02:00
+location: CCCB
+speaker: hannes
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 **A tool for debugging compiler optimizations and type inference** (in
 deutscher Sprache)
@@ -30,16 +36,6 @@ swank (the slime backend protocol).
 
 An example for this work is a visualized map(method(x) x end, \#(1)),
 available at \[4\] (data flow nodes and edges are pink).
-
-Referent
---------
-
-hannes
-
-Zeit und Ort
-------------
-
-25\. Juni 2009, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
 
 Links
 -----

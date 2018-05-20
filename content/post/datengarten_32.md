@@ -2,13 +2,18 @@
 title: "Datengarten 32"
 subtitle: "Liquid Democracy"
 date: 2018-09-03T00:00:00+02:00
+event_date: 2018-09-03T20:00:00+02:00
+location: CCCB
+speaker: Martin Häcker & Daniel Reichert
+speaker_url:
+language:
+streaming:
+recording:
 ---
+{{< datengarten-infobox >}}
 
 **Direkter Parlamentarismus – gemeinsam verbindlich entscheiden** (in
 deutscher Sprache)
-
-Abstract
---------
 
 Wir arbeiten an einer Umsetzung der [Liquid
 Democracy-Idee](http://de.wikipedia.org/wiki/Delegated_Voting). Dabei
@@ -20,21 +25,9 @@ Konsense finden. Im direkten Parlamentarismus setzt sich die beste Idee,
 das beste Argument durch; die verbindliche Entscheidung entsteht aus dem
 gemeinsamen Diskurs.
 
-Referent
---------
-
-[Martin Häcker](Benutzer:Martin_Häcker "wikilink") & Daniel Reichert
-
-Zeit und Ort
-------------
-
-3\. September 2009, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
-
 Links
 -----
 
 1.  <http://liqd.de/>
 2.  <http://liqd.de/about/idee/>
 3.  <http://wiki.piratenpartei.de/Liquid_Democracy>
-
-<Kategorie:Datengarten>

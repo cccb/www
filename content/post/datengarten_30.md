@@ -2,7 +2,14 @@
 title: "Datengarten 30"
 subtitle: "Hack the system"
 date: 2009-02-26T00:00:00+02:00
+event_date: 2009-02-26T00:20:00+02:00
+location: CCCB
+speaker: Friedemann
+speaker_url: mailto:friedemannATopenlocoPUNKTorg
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 Datengarten 30 beschäftigt sich mit sozialen Unternehmen im allgemeinen
 und dem Projekt openloco im konkreten.
@@ -27,16 +34,6 @@ Wirtschaft im Interesse der Gemeinschaft regulieren.
 Im Datengarten Nr. 30 wird die Idee eines sozialen Netzwerks
 vorgestellt, welches die Ziele Freiheit und Gerechtigkeit mit
 marktwirtschaftlichen Prinzipien durchsetzen will.
-
-Referent
---------
-
-Friedemann (friedemann at openloco punkt org)
-
-Zeit und Ort
-------------
-
-26\. Februar 2009, 20 Uhr im CCCB, Marienstr. 11, 10117 Berlin
 
 Weblinks
 --------

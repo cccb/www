@@ -1,12 +1,15 @@
 ---
 title: "Datengarten 50"
+no: 50
 subtitle: "ZigBee"
 date: 2015-04-14T00:00:00+02:00
+event_date: 2015-04-14T20:00:00+02:00
+location: CCCB
+speaker: Stephan
+language: Deutsch
+streaming: false
 ---
-
--   Referent: Stephan
--   Termin: Dienstag, 14.4.2015 ab 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
+{{< datengarten-infobox >}}
 
 ZigBee ist ein Drahtlosprotokoll für den Embedded-Bereich, welches auf
 dem Funkstandard IEEE 802.15.4 basiert und 2004 von der ZigBee Alliance

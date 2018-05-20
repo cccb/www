@@ -1,18 +1,15 @@
 ---
 title: "Chaosradio 43"
+no: 43
 subtitle: "Chaos Macht Schule Berlin"
 date: 2013-12-05T00:00:00+02:00
+event_date: 2013-12-05T20:00:00+02:00
+location: CCCB
+speaker: Peggy, Svetlana, Philipp
+language: Deutsch
+streaming: false
 ---
-
-am 5. Dezember 2013 um 20 Uhr
-
-Referenten
-----------
-
-Peggy, Svetlana, Philipp:
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 Kurze Präsentation über den aktuellen Stand von „Chaos macht Schule“ in
 Berlin. Wir suchen noch junge Hacker, die Lust haben, sich bei uns zu

@@ -1,8 +1,15 @@
 ---
 title: "Datengarten 41"
+no: 41
 subtitle: "Wikidata"
 date: 2012-09-12T00:00:00+02:00
+event_date: 2012-09-12T20:00:00+02:00
+location: CCCB
+speaker: brightbyte & johl 
+language: Deutsch
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 In Wikipedia steht viel drin: Obamas Geburtsjahr, die Länge des Rheins, oder die Einwohnerzahl von Berlin - alles leicht zu finden. Für Menschen. Maschinenlesbar ist Wikipedia leider nicht. Und außerdem findet man mitunter ganz unterschiedliche Informationen, wenn man sich den Wikipedia-Artikel in verschiedenen Sprachen anschaut.
 

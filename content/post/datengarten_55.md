@@ -1,16 +1,15 @@
 ---
 title: "Datengarten 55"
+no: 55
 subtitle: "Technology and data use among vulnerable communities"
 date: 2015-07-14T00:00:00+02:00
+event_date: 2015-07-14T20:00:00+02:00
+location: CCCB
+speaker: Zara Rahman
+language: Deutsch
+streaming: false
 ---
-
--   Referentin: Zara Rahman (researcher at The engine Room)
--   Stream / Aufzeichnung: ?
--   Termin: Dienstag, 14. Juli 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 Looking at how new technologies are being used in less developed
 economies to help address pressing social problems.

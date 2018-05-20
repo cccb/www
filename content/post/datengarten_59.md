@@ -2,15 +2,14 @@
 title: "Datengarten 59"
 subtitle: "Coreboot"
 date: 2015-09-10T00:00:00+02:00
+event_date: 2015-09-10T20:00:00+02:00
+location: CCCB
+speaker: lynxis
+language: Deutsch
+streaming: true
+recording: https://media.ccc.de/v/59
 ---
-
--   Referent: lynxis
--   Termin: Dienstag, 10. November 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
--   Sprache: Deutsch
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 coreboot ein open source bootloader zusammen mit SeaBIOS ist dieser ein
 Ersatz für das OEM BIOS or UEFI. Welche Computerhersteller updated das

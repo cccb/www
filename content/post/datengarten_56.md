@@ -2,14 +2,14 @@
 title: "Datengarten 56"
 subtitle: "Hands-on Rad1o"
 date: 2015-09-08T00:00:00+02:00
+event_date: 2015-09-08T20:00:00+02:00
+location: CCCB
+speaker: schneider
+language: Deutsch
+streaming: yes
+recording: https://media.ccc.de/v/dg56-Hands-on_Rad1o
 ---
-
--   Referent: schneider
--   Termin: Dienstag, 08. September 2015 um 20 Uhr
--   Ort: CCCB, Marienstraße 11, 10117 Berlin
-
-Beschreibung
-------------
+{{< datengarten-infobox >}}
 
 Der Datengarten 56 widmet sich voll und ganz dem Rad1o\[0\] Badge vom
 CCCamp 2015\[1\]. schneider, einer der Entwickler des Rad1os vom Chaos

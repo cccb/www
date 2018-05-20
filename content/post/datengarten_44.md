@@ -1,10 +1,16 @@
 ---
 title: "Datengarten 44"
+no: 44
 subtitle: "CanSat"
 date: 2013-12-03T00:00:00+02:00
+event_date: 2013-12-03T20:00:00+02:00
+location: CCCB
+speaker: Raphael
+speaker_url: mailto:kr@spacebenefit.org
+language: Englisch
+streaming: false
 ---
-
-**Was ist ein CanSat**?
+{{< datengarten-infobox >}}
 
 Jedes Jahr organisiert die esa ein [- CanSat
 Wettbewerb](http://cansat.eu/news-corner/309-new-cansat-competition-announced).
