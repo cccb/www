@@ -7,14 +7,18 @@
 <th>Topic</th>
 <th>Video</th>
 </tr>
-    {{ range $ind,$art := $.Site.Pages.ByDate }}
+    {{ range $ind,$art := $.Site.Pages.ByDate.Reverse }}
       {{ if eq $art.Params.series $series }}
       <tr>
 	<td>{{ $art.Params.no }}</td>
 	<td>{{ dateFormat "02.01.2006" $art.Params.event_date }}</td>
 	<td>{{ $art.Params.speaker }}</td>
 	<td><a href="{{ $art.Permalink }}">{{ $art.Params.subtitle }}</a></td>
-	<td><a href="{{ $art.Params.recording }}"><i class="fa fa-video-camera fa-fw"></i></a></td>
+        {{ if $art.Params.recording }}
+	<td><a href="{{ $art.Params.recording }}"><i class="fa fa-video fa-fw"></i></a></td>
+        {{ else }}
+	<td><i class="fa fa-video-slash fa-fw"></i></a></td>
+        {{ end }}
       </tr>
       {{ end }}
     {{ end }}
