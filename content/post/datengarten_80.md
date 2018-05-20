@@ -15,5 +15,4 @@ recording: https://media.ccc.de/v/dg-80
 ---
 {{< datengarten-infobox >}}
 
-Wahlhack, siehe: http://ccc.de/de/updates/2017/pc-wahl
-
+Wahlhack, siehe: https://ccc.de/de/updates/2017/pc-wahl

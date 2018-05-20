@@ -6,7 +6,7 @@ title: "Datengarten 88"
 no: 88
 subtitle: "Progress in the Embedded GPU space"
 speaker: Robert Foss
-speaker_url: http://twitter.com/memcpy_io
+speaker_url: https://twitter.com/memcpy_io
 date: 2018-05-08T00:00:00+02:00
 event_date: 2018-05-08T20:00:00+02:00
 location: CCCB
