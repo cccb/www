@@ -14,7 +14,7 @@ streaming: false
 ---
 {{< datengarten-infobox >}}
 
-Folien: http://www.nongnu.org/libtmcg/dg81_slides.pdf 
+Folien: https://www.nongnu.org/libtmcg/dg81_slides.pdf 
 
 Obwohl das Konzept der Schwellenwertkryptografie (Desmedt, 1987) und dessen
 Umsetzung (Desmedt und Frankel, 1989) seit Jahrzehnten bekannt sind, kommen
@@ -62,9 +62,9 @@ für Whistleblower und Signierung von Quelltexten bzw. ISO-Images) diskutiert.
 
 [5] https://github.com/citp/TwoFactorBtcWallet
 
-[6] http://www.nongnu.org/libtmcg/libTMCG.html/Tools.html
+[6] https://www.nongnu.org/libtmcg/libTMCG.html/Tools.html
 
-[7] http://www.nongnu.org/libtmcg/
+[7] https://www.nongnu.org/libtmcg/
 
 [Atwater und Hengartner, 2016]
 Erinn Atwater and Urs Hengartner.

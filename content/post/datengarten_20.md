@@ -18,9 +18,7 @@ kühlen Stil, dabei fachlich fundiert, etwa *Septemberweizen*. Dann hat
 er den Computer entdeckt - und arbeitet nun an *Pile*, einem
 “revolutionären” Ansatz für die Computerei. Es geht um nicht weniger als
 die Überwindung der Turing-Maschine - denn die ist ja eigentlich
-“paranoid” (
-[Heise-Artikel](http://www.heise.de/tp/r4/artikel/19/19184/1.html "wikilink")
-).
+“paranoid” ([Heise-Artikel](https://www.heise.de/tp/r4/artikel/19/19184/1.html "wikilink")).
 
 “Damit wird das interaktive Computerparadigma von Games - Daten werden
 nicht gespeichert sondern dynamisch generiert - auf alle
@@ -35,12 +33,9 @@ Pile ist eine Open Source (GPL copyleft/dual licensing) Entwicklung:
 
 `   `[`http://www.pilesys.com`](http://www.pilesys.com)
 
-Erez Elul, der Erfinder und Chefentwickler von Pile, gibt Workshops in
-Berlin zur Einfuehrung (in Englisch).\
-Der naechste Termin ist 2.-4. September, dann wieder nach 4 Wochen, je
-nach Nachfrage - bitte rechtzeitig anmelden.\
-Die Gebuehren sind zivil: 3-taegiger Workshop fuer Studenten 50 E, freie
-Programmierer 100 E.\
+Erez Elul, der Erfinder und Chefentwickler von Pile, gibt Workshops in Berlin zur Einfuehrung (in Englisch).\
+Der naechste Termin ist 2.-4. September, dann wieder nach 4 Wochen, je nach Nachfrage - bitte rechtzeitig anmelden.\
+Die Gebuehren sind zivil: 3-taegiger Workshop fuer Studenten 50 E, freie Programmierer 100 E.\
 Anmeldung und Details:
 
 `   `[`http://pilesys.com/Workshop%20Schedule.htm`](http://pilesys.com/Workshop%20Schedule.htm)
