@@ -12,6 +12,7 @@ event_date: 2018-05-08T20:00:00+02:00
 location: CCCB
 language: Englisch
 streaming: true
+recording: https://media.ccc.de/v/dg-88
 ---
 {{< datengarten-infobox >}}
 
