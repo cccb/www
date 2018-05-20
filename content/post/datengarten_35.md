@@ -41,7 +41,7 @@ erzählt, vielleicht, eine weitere, vierte Geschichte.
 Im Kontext von Politik, Wahlen und Demos und so, geht es auch darum,
 noch einmal zu sagen, dass ohne Kultur alles nichts ist.
 
-![](Ss_burnt_02-25-09_01-40-06_(marsh)b.jpg "Ss_burnt_02-25-09_01-40-06_(marsh)b.jpg")
+![DG35](/img/dg35.jpg)
 
 *You have to be in hell to see heaven.* (W.S. Burroughs)
 
@@ -59,8 +59,8 @@ Ort und Zeit
 Links
 -----
 
--   [WP: Picknick am Wegesrand](http://de.wikipedia.org/wiki/Picknick_am_Wegesrand_%28Roman%29)
--   [WP:Stalker Film](http://de.wikipedia.org/wiki/Stalker_%28Film%29)
--   [WP:Stalker Spiel](http://de.wikipedia.org/wiki/Stalker:_Shadow_of_Chernobyl)
--   [Wirklichkeit](http://de.wikipedia.org/wiki/Wirklichkeit)
+-   [WP: Picknick am Wegesrand](https://de.wikipedia.org/wiki/Picknick_am_Wegesrand_%28Roman%29)
+-   [WP:Stalker Film](https://de.wikipedia.org/wiki/Stalker_%28Film%29)
+-   [WP:Stalker Spiel](https://de.wikipedia.org/wiki/Stalker:_Shadow_of_Chernobyl)
+-   [Wirklichkeit](https://de.wikipedia.org/wiki/Wirklichkeit)
 

@@ -24,10 +24,6 @@ Pädagogen und Eltern in der Berliner Bildungslandschaft etablieren.
 Weblink
 -------
 
--   Auf der CCC-Webseite: [1](http://ccc.de/schule)
--   Aus anderen Erfas: Peter Hecko und Florian Grunow vom CCC Mannheim
-    über die Entstehung des Projekts, Motivation, Zielsetzung, Inhalte
-    und Wirkung der Aktivitäten in den Schulen:
-    [2](http://cre.fm/cre189-chaos-macht-schule)
--   Chaos macht Schule bei der Sigint 2012:
-    [3](http://www.youtube.com/watch?v=jSwJ44v7cCs)
+-   Auf der CCC-Webseite: [1](https://ccc.de/schule)
+-   Aus anderen Erfas: Peter Hecko und Florian Grunow vom CCC Mannheim über die Entstehung des Projekts, Motivation, Zielsetzung, Inhalte und Wirkung der Aktivitäten in den Schulen: [2](https://cre.fm/cre189-chaos-macht-schule)
+-   Chaos macht Schule bei der Sigint 2012: [3](https://www.youtube.com/watch?v=jSwJ44v7cCs)

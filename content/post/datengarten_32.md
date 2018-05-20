@@ -19,7 +19,7 @@ recording:
 deutscher Sprache)
 
 Wir arbeiten an einer Umsetzung der [Liquid
-Democracy-Idee](http://de.wikipedia.org/wiki/Delegated_Voting). Dabei
+Democracy-Idee](https://de.wikipedia.org/wiki/Delegated_Voting). Dabei
 ist es für uns wichtig, keine Ja/Nein-Demokratie, sondern eine
 diskursorientierte Basisdemokratie zu etablieren: alle können
 ParlamentarierInnen sein und mit allen anderen Ideen entwickeln,
