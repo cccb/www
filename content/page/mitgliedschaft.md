@@ -35,13 +35,13 @@ Die sogenannte Doppelmitglieschaft, bei der CCCB-Mitglieder automatisch Mitglied
  
 # Mitgliedschaft beantragen 
 
-Mitgliedsanträge liegen links oben im schwarzen Aussteller an der Metalltür. Alternativ gibt es sie als PDF-Datei zum ausdrucken.
+Mitgliedsanträge bekommst du von den Mitgliedern 
 
 Ausgefüllte Mitgliedsanträge können via Post an den Vorstand geschickt oder im direkt Club abgegeben werden. Wer von einem Neuling einen Antrag entgegennimmt, legt diesen in das dafür vorgesehene Fach im Büro und gibt dem Vorstand per Mail bescheid. 
 
   * [Satzung des CCCB e.V.](/page/satzung/)
 
-Mitglieder des CCC Berlin e.V. müssen nicht gleichzeitig Mitglied des CCC e.V. sein, die Mitgliedschaft in beiden Vereinen wird jedoch sehr empfohlen. Sie bringt unter anderem Rabatt auf den Eintritt bei CCC-Veranstaltung sowie den Bezug der [Datenschleuder](https://ds.ccc.de). Bitte beachte, dass du eine reguläre Mitgliedschaft beantragen solltest, nicht um die auf ccc.de beworbene Fördermitgliedschaft. Sprich uns einfach an und lies die [Satzung des CCC e.V.](https://www.ccc.de/club/statutes?language=de)
+Mitglieder des CCC Berlin e.V. müssen nicht gleichzeitig Mitglied des CCC e.V. sein, die Mitgliedschaft in beiden Vereinen wird jedoch empfohlen. Sie bringt unter anderem Rabatt auf den Eintritt bei CCC-Veranstaltung sowie den Bezug der [Datenschleuder](https://ds.ccc.de). Bitte beachte, dass du eine reguläre Mitgliedschaft beantragen solltest, nicht um die auf ccc.de beworbene Fördermitgliedschaft. Sprich uns einfach an und lies die [Satzung des CCC e.V.](https://ccc.de/de/satzung)
 
 **Bitte gib keinen Mitgliedsantrag ab, wenn Du nicht vorher im Club persönlich bekannt bist!**
 
