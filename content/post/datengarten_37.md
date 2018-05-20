@@ -14,9 +14,9 @@ streaming: false
 {{< datengarten-infobox >}}
 
 based on the tools presented at the 27c3
-([video](http://www.youtube.com/watch?v=YD7UY0CBvnY),
-[tutorial](http://events.ccc.de/congress/2010/wiki/Embedded_Analysis),
-[lecture page](http://events.ccc.de/congress/2010/Fahrplan/events/4011.en.html)).
+([video](https://www.youtube.com/watch?v=YD7UY0CBvnY),
+[tutorial](https://events.ccc.de/congress/2010/wiki/Embedded_Analysis),
+[lecture page](https://events.ccc.de/congress/2010/Fahrplan/events/4011.en.html)).
 
 ### Targets
 

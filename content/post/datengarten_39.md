@@ -102,4 +102,4 @@ MCR will follow a System Requirement Review, wherein the mission
 requirements such as,data download rate, orbital height, etc will be
 unambiguously defined.
 
-More Infos can be found at [1](http://events.ccc.de/camp/2011/wiki/CubeSat_Workshop) and some previous test launch[2](http://universeexplorer.cwahi.net/project-nepa/#intro)
+More Infos can be found at [1](https://events.ccc.de/camp/2011/wiki/CubeSat_Workshop) and some previous test launch[2](http://universeexplorer.cwahi.net/project-nepa/#intro)
