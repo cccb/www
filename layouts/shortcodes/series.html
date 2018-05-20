@@ -12,7 +12,11 @@
       <tr>
 	<td>{{ $art.Params.no }}</td>
 	<td>{{ dateFormat "02.01.2006" $art.Params.event_date }}</td>
+	{{ if isset $art.Params "speaker_url" }}
+	<td><a href="{{ $art.Params.speaker_url }}">{{ $art.Params.speaker }}</a></td>
+        {{ else }}
 	<td>{{ $art.Params.speaker }}</td>
+        {{ end }}
 	<td><a href="{{ $art.Permalink }}">{{ $art.Params.subtitle }}</a></td>
         {{ if $art.Params.recording }}
 	<td><a href="{{ $art.Params.recording }}"><i class="fa fa-video fa-fw"></i></a></td>

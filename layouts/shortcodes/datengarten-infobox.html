@@ -1,5 +1,9 @@
 <p>
+{{ if isset .Page.Params "speaker_url" }}
+<strong><i class="far fa-user fa-fw"></i></strong> <a href="{{ .Page.Params.Speaker_url }}">{{ .Page.Params.Speaker }}</a><br/>
+{{ else }}
 <strong><i class="far fa-user fa-fw"></i></strong> {{ .Page.Params.Speaker }}<br/>
+{{ end }}
 <strong><i class="far fa-calendar fa-fw"></i></strong> {{ dateFormat "02.01.2006, 15:04" .Page.Params.Event_date }} Uhr<br/>
 <strong><i class="fa fa-language fa-fw"></i></strong> {{ .Page.Params.Language }}<br/>
 <strong><i class="fa fa-map-marker fa-fw"></i></strong> {{ partial "location" .Page.Params.Location }}
