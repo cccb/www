@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 39"
 no: 39
 subtitle: "Cubesat Projekt GLORIA"

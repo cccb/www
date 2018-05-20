@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 44"
 no: 44
 subtitle: "CanSat"

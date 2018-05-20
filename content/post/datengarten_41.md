@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 41"
 no: 41
 subtitle: "Wikidata"

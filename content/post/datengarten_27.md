@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 27
 title: "Datengarten 27"
 subtitle: "The Incredible Dirty Bomb Hoax oder: warum wir dringend eine bemannte Marsmission brauchen"
 date: 2008-09-18T00:00:00+02:00

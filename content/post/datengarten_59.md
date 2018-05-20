@@ -1,8 +1,11 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 59"
+no: 59
 subtitle: "Coreboot"
-date: 2015-09-10T00:00:00+02:00
-event_date: 2015-09-10T20:00:00+02:00
+date: 2015-11-10T00:00:00+02:00
+event_date: 2015-11-10T20:00:00+02:00
 location: CCCB
 speaker: lynxis
 language: Deutsch

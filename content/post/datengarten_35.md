@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 35
 title: "Datengarten 35"
 subtitle: "Stalker - das Buch, der Film, das Game, der Mensch"
 date: 2009-11-05T00:00:00+02:00

@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 50"
 no: 50
 subtitle: "ZigBee"

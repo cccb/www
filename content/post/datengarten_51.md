@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 51"
 no: 51
 subtitle: "Puppet … Konfigurationsmanagement"

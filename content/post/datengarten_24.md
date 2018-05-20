@@ -7,9 +7,11 @@ subtitle: "Retrocomputing oder: Wie waren Computer früher?"
 speaker: Dexter
 language: Deutsch
 location: CCCB
-date: 2006-12-10T00:00:00+02:00
-event_date: 2006-12-10T20:00:00+02:00
+date: 2006-10-12T00:00:00+02:00
+event_date: 2006-10-12T20:00:00+02:00
+streaming: false
 ---
+{{< datengarten-infobox >}}
 
 Zusammenfassung
 ---------------

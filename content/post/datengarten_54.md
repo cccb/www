@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 54"
 no: 54
 subtitle: "Das Internet hinter Eurem DSL Modem"

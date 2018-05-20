@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Chaosradio 43"
 no: 43
 subtitle: "Chaos Macht Schule Berlin"

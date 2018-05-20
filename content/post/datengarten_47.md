@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 47"
 no: 47
 subtitle: "3D Druck - eine Einführung"

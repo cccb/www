@@ -1,5 +1,8 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 57 Spezial"
+no: 57
 subtitle: "From Secret Manoeuvres to Undercover Research"
 date: 2015-09-28T00:00:00+02:00
 event_date: 2015-09-28T20:00:00+02:00

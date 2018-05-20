@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 28
 title: "Datengarten 28"
 subtitle: "Weltraummedizinforschung"
 date: 2008-10-16T00:00:00+02:00

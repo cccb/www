@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 48"
 no: 48
 subtitle: "Transport Layer Security (TLS)"

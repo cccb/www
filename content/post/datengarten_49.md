@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 49"
 no: 49
 subtitle: "No more secrets: Biometrie hacken"

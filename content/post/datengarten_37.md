@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 37"
 no: 37
 subtitle: "Embedded analysis workshop 2011 (Part I)"

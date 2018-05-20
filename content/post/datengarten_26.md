@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 26
 title: "Datengarten 26"
 subtitle: "Microcontroller - kleine Computer"
 date: 2007-07-05T00:00:00+02:00

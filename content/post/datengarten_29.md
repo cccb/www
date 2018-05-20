@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 29
 title: "Datengarten 29"
 subtitle: "Solarsegler"
 date: 2008-11-27T00:00:00+02:00

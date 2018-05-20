@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 55"
 no: 55
 subtitle: "Technology and data use among vulnerable communities"

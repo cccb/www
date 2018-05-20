@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 38"
 no: 38
 subtitle: "Embedded Analysis Workshop (Part II)"

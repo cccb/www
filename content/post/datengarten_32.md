@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 32
 title: "Datengarten 32"
 subtitle: "Liquid Democracy"
 date: 2018-09-03T00:00:00+02:00

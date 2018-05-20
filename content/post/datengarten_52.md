@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 52"
 no: 52
 subtitle: "Reproducible Builds"

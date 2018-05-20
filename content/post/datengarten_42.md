@@ -1,4 +1,6 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 42"
 no: 42
 subtitle: "Open Source Robotics"

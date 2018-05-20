@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 30
 title: "Datengarten 30"
 subtitle: "Hack the system"
 date: 2009-02-26T00:00:00+02:00

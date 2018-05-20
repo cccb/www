@@ -1,5 +1,8 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 58"
+no: 58
 subtitle: "Circumvent WPA2"
 date: 2015-10-13T00:00:00+02:00
 event_date: 2015-10-13T20:00:00+02:00

@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 31
 title: "Datengarten 31"
 subtitle: "Dem Compiler beim Optimieren zuschauen"
 date: 2009-06-25T00:00:00+02:00

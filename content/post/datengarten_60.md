@@ -1,5 +1,8 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
 title: "Datengarten 60"
+no: 60
 subtitle: "NinjaPCR"
 date: 2015-11-17T00:00:00+02:00
 event_date: 2015-11-17T20:00:00+02:00

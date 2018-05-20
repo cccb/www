@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 34
 title: "Datengarten 34"
 subtitle: "The social web"
 date: 2009-10-22T00:00:00+02:00

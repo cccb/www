@@ -1,4 +1,7 @@
 ---
+categories: ["Datengarten"]
+series: "Datengarten"
+no: 36
 title: "Datengarten 36"
 subtitle: "Hack the wiki"
 date: 2010-03-11T00:00:00+02:00
