@@ -74,5 +74,5 @@ Links
 -----
 
 -   Personal Website: [ajantriks.net](http://ajantriks.net)
--   The Sarai Programme: [sarai.net](http://sarai.net)
+-   The Sarai Programme: [sarai.net](https://sarai.net)
 -   Centre for the Study of Developing Societies: [csds.in](http://csds.in)

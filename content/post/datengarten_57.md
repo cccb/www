@@ -80,19 +80,10 @@ Web Resources
 -------------
 
 -   Bild vom Buch-Cover
-    <https://secretmanoeuvresinthedark.wordpress.com/buy/cover-book-aug-20121-jpg/>
-    &lt;<https://secretmanoeuvresinthedark.wordpress.com/buy/cover-book-aug-20121-jpg/>&gt;
+    https://secretmanoeuvresinthedark.wordpress.com/buy/cover-book-aug-20121-jpg
 -   Mehr über Eveline Lubbers
-    <https://secretmanoeuvresinthedark.wordpress.com/bio/>
-    &lt;<https://secretmanoeuvresinthedark.wordpress.com/bio/>&gt;
+    https://secretmanoeuvresinthedark.wordpress.com/bio/
 -   Die Website zum Buch “Secret Manoeuvres in the Dark”:
-    <https://secretmanoeuvresinthedark.wordpress.com/>
-    &lt;<https://secretmanoeuvresinthedark.wordpress.com/>&gt; mit
-    Ausschnitten
-    (https://secretmanoeuvresinthedark.wordpress.com/Preface/
-    &lt;<https://secretmanoeuvresinthedark.wordpress.com/Preface/>&gt;)
--   Evelines früheres Buch “Battling Big Business. Countering greenwash,
-    front groups and other forms of corporate deception”
-    <http://www.evel.nl/pandora/bbb.htm>
-    &lt;<http://www.evel.nl/pandora/bbb.htm>&gt;
-
+    https://secretmanoeuvresinthedark.wordpress.com/
+-   Evelines früheres Buch “Battling Big Business. Countering greenwash, front groups and other forms of corporate deception”
+    https://www.evel.nl/pandora/bbb.htm

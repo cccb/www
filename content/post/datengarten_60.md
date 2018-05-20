@@ -27,8 +27,8 @@ mobilization of all his machinery and know-how, he is now creating an
 environment in which anyone can make their ideas into products, without
 the need for a large up-front investment.
 
--   DNA amplifier <http://pcr.tori.st>
--   Manpowered Aircraft <http://www.youtube.com/watch?v=U1RoO-pmLh4>
--   AR Satellite tracker app <http://www.youtube.com/watch?v=9A7OEXBO2-0>
--   Laser Satellite Tracker <http://www.youtube.com/watch?v=j86uFMFnk60>
+-   DNA amplifier <https://pcr.tori.st>
+-   Manpowered Aircraft <https://www.youtube.com/watch?v=U1RoO-pmLh4>
+-   AR Satellite tracker app <https://www.youtube.com/watch?v=9A7OEXBO2-0>
+-   Laser Satellite Tracker <https://www.youtube.com/watch?v=j86uFMFnk60>
 

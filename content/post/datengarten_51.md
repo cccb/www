@@ -20,7 +20,7 @@ management, CM) ist eine Managementdisziplin, die organisatorische und
 verhaltensmäßige Regeln auf den Lebenslauf eines Produkts und seiner
 Konfigurationseinheiten von Entwicklung über Herstellung und Betreuung
 bis hin zur Entsorgung anwendet.” Wikipedia -
-<http://de.wikipedia.org/wiki/Konfigurationsmanagement> , 20.03.2015
+<https://de.wikipedia.org/wiki/Konfigurationsmanagement> , 20.03.2015
 
 Hört sich komisch an, ist aber gar nicht so falsch. Es geht um Server
 (Linux/Unix…\[ja, auch Windows, aber wer will das denn schon\])
