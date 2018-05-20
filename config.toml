@@ -4,6 +4,7 @@ title = "Chaos Computer Club Berlin e.V."
 theme = "beautifulhugo"
 
 [Params]
+  license = "CC-BY"
   subtitle = "Willkommen! Wir sind ein Erfa-Kreis des Chaos Computer Club e.V. und die örtliche Niederlassung des CCC in Berlin."
   logo = "img/logo.png"
   favicon = "img/favicon.ico"
