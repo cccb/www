@@ -37,3 +37,27 @@ theme = "beautifulhugo"
   name = "News"
   url = "post/"
   weight = 600
+
+[mediaTypes]
+[mediaTypes."text/calendar"]
+suffix = "ics"
+
+[mediaTypes."application/rss"]
+suffix = "rss"
+
+[mediaTypes."application/xml"]
+suffix = "xml"
+
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss"
+
+  [outputFormats.XML]
+    isPlainText = true
+    mediaType = "application/xml"
+
+
+
+[outputs]
+section = [ "HTML", "Calendar", "RSS", "XML"]

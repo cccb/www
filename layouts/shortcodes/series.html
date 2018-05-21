@@ -11,7 +11,7 @@
       {{ if eq $art.Params.series $series }}
       <tr>
 	<td>{{ $art.Params.no }}</td>
-	<td>{{ dateFormat "02.01.2006" $art.Params.event_date }}</td>
+	<td>{{ dateFormat "02.01.2006" $art.Params.event.start }}</td>
 	{{ if isset $art.Params "speaker_url" }}
 	<td><a href="{{ $art.Params.speaker_url }}">{{ $art.Params.speaker }}</a></td>
         {{ else }}

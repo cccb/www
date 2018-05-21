@@ -1,0 +1,35 @@
+<schedule>
+  <version>1.0</version>
+  <conference>
+    <title>Datengarten</title>
+    <acronym>datengarten</acronym>
+    <days>99</days>
+    <start>2005-01-01</start>
+    <end>2099-12-31</end>
+    <timeslot_duration>2:00</timeslot_duration>
+  </conference>
+  {{range .Pages.ByDate -}}
+  <day index="{{.Params.no}}" date="{{dateFormat "2006-01-02" .Params.event.start}}" start="{{dateFormat "2006-01-02T15:04:05" .Params.event.start}}" end="{{dateFormat "2006-01-02T15:04:05" .Params.event.end}}">
+    <room name="Saal23">
+        <event id="{{.Params.no}}" guid="456fb60c-5ce7-11e8-be47-1fb2912eb8{{.Params.no}}">
+        <date>2016-11-23T13:00:00</date>
+        <start>13:00</start>
+	<duration>{{ $end := time .Params.event.end }}{{ $t := time "1970-01-01"}}{{ dateFormat "15:04" ( $t.Add ( $end.Sub (time .Params.event.start) ) ) }}</duration>
+        <room>Saal 23</room>
+        <slug>dg-{{.Params.no}}</slug>
+        <title>{{htmlEscape .Title}}</title>
+	<subtitle>{{with .Params.subtitle}}{{htmlEscape .}}{{end}}</subtitle>
+        <track/>
+        <type/>
+        <language>{{.Params.language}}</language>
+	<abstract>{{.Plain}}</abstract>
+	<description>{{.Plain}}</description>
+        <persons>
+            <person id="0">{{htmlEscape .Params.speaker}}</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day> 
+  {{end -}}
+</schedule>
