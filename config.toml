@@ -22,7 +22,7 @@ theme = "beautifulhugo"
   tag = "tags"
 
 [permalinks]
-  post = "/:year/:month/:day/:title/"
+  post = "/post/:year/:month/:day/:title/"
 
 [Author]
   twitter = "clubdiscordia"
