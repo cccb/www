@@ -8,7 +8,7 @@ menu:
 ---
 
 Der **Datengarten** ist eine Vortrags- und Projektreihe im Rahmen des [Club
-Discordia](Club_Discordia "wikilink"). Regelmäßige Datengärten finden an
+Discordia](/page/clubdiscordia/). Regelmäßige Datengärten finden an
 jedem 2. Dienstag im Monat ab 20 Uhr statt (der Dienstag nach dem
 [Netzpolitischen
 Abend](https://digitalegesellschaft.de/portfolio-items/netzpolitischer-abend/)
@@ -23,14 +23,6 @@ Wir freuen uns über Themenvorschläge und / oder -wünsche sowie
 Anregungen und Kritik. Sprecht uns einfach vor Ort an, schreibt
 <dg-orga@berlin.ccc.de> oder kontaktiert uns auf Twitter
 [@clubdiscordia](https://twitter.com/clubdiscordia).
-
-Aktuelles
----------
-
--   Ab sofort gibt es jeden 2. Dienstag im Monat einen Datengarten (im
-    Rahmen des Club Discordia)
--   [Datengarten Aufzeichnungen](https://media.ccc.de/c/datengarten/) @
-    [C3VOC](https://c3voc.de/wiki/)
 
 Aktuelle Datengärten
 --------------------
