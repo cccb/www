@@ -6,6 +6,8 @@ menu:
   main:
     parent: "veranstaltungen"
 ---
+![Logo der Chaoswelle](/img/chaoswelle.png "Logo der Chaoswelle")
+
 **Jeden Montag ab 20 Uhr** treffen sich Funkamateure oder Interessierte
 rund um drahtlose Kommunikation im Chaos Computer Club Berlin. Manchmal
 gibt es Vorträge oder Workshops, die dann im Kalender separat angezeigt
