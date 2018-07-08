@@ -48,11 +48,11 @@ menu:
     weight: 600
 
 mediaTypes:
-  "text/calendar":
+  text/calendar":
     suffix: "ics"
-  "application/rss":
+  application/rss:
     suffix: "rss"
-  "application/xml":
+  application/xml:
     suffix: "xml"
 
 
