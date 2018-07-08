@@ -4,6 +4,7 @@ date: 2018-05-20T23:16:30+02:00
 menu:
   main:
     parent: "sonstiges"
+draft: true
 ---
 
 Rundfunk
