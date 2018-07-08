@@ -15,7 +15,7 @@ Abend](https://digitalegesellschaft.de/portfolio-items/netzpolitischer-abend/)
 der [Digitalen Gesellschaft](https://digitalegesellschaft.de/)). Zudem
 gibt es immer mal wieder einen Datengarten außerhalb der Reihe. Wenn Du
 Interesse an regelmäßigen Updates über stattfindende Veranstaltungen
-hast folge [@clubdiscordia](https://twitter.com/clubdiscordia) auf
+hast, folge [@clubdiscordia](https://twitter.com/clubdiscordia) auf
 Twitter oder trage Dich auf unseren Mailverteiler zum Datengarten ein.
 Schicke dazu eine Mail an <datengarten-subscribe@berlin.ccc.de>.
 

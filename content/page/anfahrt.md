@@ -22,18 +22,18 @@ Der Club befindet sich in unmittelbarer Nähe zum S+U Bahnhof **Friedrichstraße
 
 ## mit dem Fernverkehr
 
-Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalbahn Richtung Osten auf der Stadtbahn eine Haltestelle bis zum **Bahnhof Friedrichstr**. Den Bahnhof Richtung Spree verlassen, dann die Fußgängerrücke über den Fluß nehmen und der Albrechtstraße bis zur Stichstraße Marienstraße folgen.
+Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalbahn Richtung Osten auf der Stadtbahn eine Haltestelle bis zum **Bahnhof Friedrichstraße** fahren. Den Bahnhof Richtung Spree verlassen, dann die Fußgängerbrücke über den Fluß nehmen und der Albrechtstraße bis zur Stichstraße Marienstraße folgen.
 
 ## mit dem Flugzeug
 
 * von **Tegel** (TXL/EDDT): Buslinie TXL bis zum Halt *Marschallbrücke*. Die Luisenstraße bis hinter das Bahnviadukt zurücklaufen. Die Marienstaße befindet sich dann unmittelbar rechter Hand.
-* von **Schönefeld** (SFX/EDDB): dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
-* von **Straußberg** (EDAZ): S7 direkt bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
+* von **Schönefeld** (SFX/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
+* von **Straußberg** (EDAY): S7 direkt bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt öffentlicher Nahverkehr.
 
 ## mit dem Auto
 
-Am besten dem Navigationsgerät folgen. Zufahrt aus Richtung Hauptbahnhof oder Brandenburger Tor ist über die Luisenstraße möglich. Wer von der Friedrichstraße kommt, fährt entweder über den Schiffbauerdamm und die Albrechtstraße (Behinderung durch Außgengastronomie und Kopfsteinpflaster) oder fährt über die Reinhardstraße und die Luisenstraße (Die Albrechtstraße ist nur in die Gegenrichtung befahrbar).
+Am besten dem Navigationsgerät folgen. Zufahrt aus Richtung Hauptbahnhof oder Brandenburger Tor ist über die Luisenstraße möglich. Wer von der Friedrichstraße kommt, fährt entweder über den Schiffbauerdamm und die Albrechtstraße (Behinderung durch Außgengastronomie und Kopfsteinpflaster) oder fährt über die Reinhardstraße und die Luisenstraße (die Albrechtstraße ist nur in die Gegenrichtung befahrbar).
 
-**Warnung:** Vor Ort gibt es je nach Tageszeit wenige Parkmöglichkeiten. Die Marienstraße und alle umliegenden Straßen unterliegen der Parkraumbewirtschaftung seitens des Bezirks. Parkpläztze in unmittelbarer Nähe sind selten.
+**Warnung:** Vor Ort gibt es je nach Tageszeit wenige Parkmöglichkeiten. Die Marienstraße und alle umliegenden Straßen unterliegen der Parkraumbewirtschaftung seitens des Bezirks. Parkplätze in unmittelbarer Nähe sind selten.
 
 
