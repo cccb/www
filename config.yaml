@@ -1,0 +1,74 @@
+baseURL: "https://staging.berlin.ccc.de/s"
+languageCode: "de-de"
+title: "Chaos Computer Club Berlin e.V."
+theme: "beautifulhugo"
+RelativeURLs: true
+CanonifyURLs: true
+
+Params:
+  license: "CC-BY"
+  subtitle: "Willkommen! Wir sind ein Erfa-Kreis des Chaos Computer Club e.V. und die örtliche Niederlassung des CCC in Berlin."
+  logo: "img/logo.png"
+  favicon: "img/favicon.ico"
+  dateFormat: "January 2, 2006"
+  commit: false
+  rss: true
+  comments: true
+  readingTime: true
+  useHLJS: true
+  DateForm: "30.12.2006"
+
+taxonomies:
+  category: "categories"
+  series: "series"
+  tag: "tags"
+
+permalinks:
+  post: "/post/:year/:month/:day/:title/"
+
+Author:
+  twitter: "clubdiscordia"
+  email: "mail@berlin.ccc.de"
+
+menu:
+  main:
+  - identifier: "verein"
+    name: "Verein"
+    weight: 200
+  - identifier: "veranstaltungen"
+    name: "Veranstaltungen"
+    weight: 300
+  - identifier: "news"
+    name: "News"
+    url: "post/"
+    weight: 500
+  - identifier: "impressum"
+    name: "Impressum"
+    url: "page/impressum/"
+    weight: 600
+
+mediaTypes:
+  "text/calendar":
+    suffix: "ics"
+  "application/rss":
+    suffix: "rss"
+  "application/xml":
+    suffix: "xml"
+
+
+outputFormats:
+  RSS:
+    mediaType: "application/rss"
+  XML:
+    isPlainText: true
+    mediaType: "application/xml"
+
+outputs:
+  section: 
+   - "HTML"
+   - "Calendar"
+   - "RSS"
+   - "XML"
+  page:
+   - "HTML"
+   - "Calendar"
