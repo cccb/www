@@ -2,6 +2,7 @@
 title: "Coder Dojo"
 subtitle: Hacken und Coden für Kinder 
 date: 2018-05-18T09:51:02+02:00
+rrule: "FREQ=MONTHLY;BYSETPOS=3;BYDAY=SA;INTERVAL=1"
 menu:
   main:
     parent: "veranstaltungen"
@@ -9,6 +10,8 @@ menu:
 ![Coder Dojo logo](/img/coderdojo.png)
 
 Wir hosten den [Coder Dojo Berlin Mitte](https://zen.coderdojo.com/dojo/de/berlin/berlin-mitte).
+
+Er findet jeden dritten Samstag im Monat von 14 bis 17 Uhr statt.
 
 ## Bitte vorher anmelden
 Schickt uns bitte eine Email an <hello@mitte.coderdojo.berlin>, um Euch zu registrieren.

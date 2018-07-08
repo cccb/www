@@ -2,6 +2,10 @@
 title: "Chaosradio"
 subtitle: "Der Podcast im Radio"
 date: 2018-05-17T22:47:26+02:00
+rrule: "FREQ=MONTHLY;BYSETPOS=-1;BYDAY=TH;INTERVAL=1"
+dtstart: 20180628T220000
+dtend: 20180629T000000
+location: "CCCB oder Fritz"
 menu:
   main:
     parent: "veranstaltungen"
