@@ -33,7 +33,7 @@ Author:
 menu:
   main:
   - identifier: "verein"
-    name: "Verein"
+    name: "Der Verein"
     weight: 200
   - identifier: "veranstaltungen"
     name: "Veranstaltungen"
