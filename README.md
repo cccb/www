@@ -6,7 +6,7 @@ Running a dev setup
 * Switch directory: `cd www`
 * Fetch Submodules: `git submodule update --recursive --remote --init`
 * run hugo webserver: `hugo serve`
-* Point your browser to `http://localhost:1313`
+* Point your browser to `http://localhost:1313/s/`
 
 Every change you make on the project will be reflected in your browser as
 long as `hugo serve` is running.
