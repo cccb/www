@@ -1,5 +1,4 @@
-{{if isset .Params "rrule"}}
-BEGIN:VCALENDAR
+{{if isset .Params "rrule"}}BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//cccb//datengarten calendar//EN
 CALSCALE:GREGORIAN
@@ -18,13 +17,12 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 TZNAME:CET
 DTSTART:19701025T030000
-RRULE:{{.Params.rrule}}
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CCCB":mailto:mail@berlin.ccc.de
 SUMMARY:{{.Title}}
-UID: {{.Title}}@berlin.ccc.de
+UID:{{lower (replace .Title " " "")}}@berlin.ccc.de
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20180508T200000Z

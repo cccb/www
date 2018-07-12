@@ -2,7 +2,9 @@
 title: "Coder Dojo"
 subtitle: Hacken und Coden für Kinder 
 date: 2018-05-18T09:51:02+02:00
-rrule: "FREQ=MONTHLY;BYSETPOS=3;BYDAY=SA;INTERVAL=1"
+dtstart: 20180623T140000
+dtend:   20180623T170000
+rrule:   "FREQ=MONTHLY;BYSETPOS=3;BYDAY=SA;INTERVAL=1"
 menu:
   main:
     parent: "veranstaltungen"

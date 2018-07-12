@@ -2,9 +2,9 @@
 title: "Chaos macht Schule"
 subtitle: "Technikkompetenzvermittlung"
 date: 2018-05-18T01:11:54+02:00
-rrule: "FREQ=MONTHLY;BYSETPOS=1;BYDAY=TH;INTERVAL=1"
 dtstart: 20180705T190000
-dtend: 20180705T230000
+dtend:   20180705T230000
+rrule:   "FREQ=MONTHLY;BYSETPOS=1;BYDAY=TH;INTERVAL=1"
 menu:
   main:
     parent: "veranstaltungen"
