@@ -6,7 +6,7 @@ date: 2018-07-15T00:24:18+02:00
 Verantwortlicher für die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten im Sinne von Art. 4 Nr. 7 DSGVO ist
 
 ```
-  Chaos Computer Club (CCCB) e.V.
+  Chaos Computer Club Berlin / CCC (B) e.V.
   Marienstr. 11
   10117 Berlin
 ```
