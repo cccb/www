@@ -46,6 +46,10 @@ menu:
     name: "Impressum"
     url: "page/impressum/"
     weight: 600
+  - identifier: "privacy"
+    name: "Privacy"
+    url: "page/datenschutz/"
+    weight: 700
 
 mediaTypes:
   text/calendar":

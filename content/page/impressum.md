@@ -14,4 +14,7 @@ Inhalte der einzelnen Postings ist den jeweiligen Autoren zuzuschreiben. Links, 
 * Marienstrasse 11
 * 10117 Berlin
 
-Kontakt: <vorstand@berlin.ccc.de> 
+Kontakt: <vorstand@berlin.ccc.de>
+
+[Datenschutzerklärung]({{< ref "page/datenschutz.md" >}})
+
