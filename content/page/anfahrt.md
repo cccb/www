@@ -12,7 +12,7 @@ Die Clubräume liegen im Hinterhof in der **Marienstr. 11, 10117 Berlin** ([Goog
 
 # Nahbereichskarte
 
-![Anfahrtskarte CCCB, (c) Open Street Map](/img/anfahrt.jpg)
+{{< figure src="/img/anfahrt.jpg" title="Anfahrtskarte CCCB (Daten von OpenStreetMap - Veröffentlicht unter ODbL)" >}}
 
 # Ich reise an...
 
