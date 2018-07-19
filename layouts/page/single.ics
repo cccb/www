@@ -36,6 +36,7 @@ EXDATE;TZID=Europe/Berlin:{{dateFormat "20060102T150405" . }}
 {{end -}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}CCCB{{end}}
 URL:{{.Permalink}}
+DESCRIPTION:{{.Permalink}}
 END:VEVENT
 END:VCALENDAR
 {{end -}}

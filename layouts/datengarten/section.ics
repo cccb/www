@@ -34,6 +34,7 @@ EXDATE;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.event.start}}
 {{end -}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}CCCB{{end}}
 URL:{{.Permalink}}
+DESCRIPTION:{{.Permalink}}
 END:VEVENT
 {{range .Pages -}}
 BEGIN:VEVENT
@@ -47,6 +48,7 @@ DTSTART;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.event.start}}
 DTEND;TZID=Europe/Berlin:{{dateFormat "20060102T150405" .Params.event.end}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}CCCB{{end}}
 URL:{{.Permalink}}
+DESCRIPTION:{{.Permalink}}
 END:VEVENT
 {{end -}}
 END:VCALENDAR
