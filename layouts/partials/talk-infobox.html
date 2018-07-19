@@ -5,7 +5,12 @@
 <strong><i class="far fa-user fa-fw"></i></strong> {{ .Page.Params.Speaker }}<br/>
 {{ end }}
 <strong><i class="far fa-calendar fa-fw"></i></strong> {{ dateFormat "02.01.2006, 15:04" .Page.Params.Event.start }} Uhr<br/>
-<strong><i class="fa fa-language fa-fw"></i></strong> {{ .Page.Params.Language }}<br/>
+{{ with (eq $.Page.Params.Language "de") }}
+<strong><i class="fa fa-language fa-fw"></i></strong> Deutsch/German<br/>
+{{ end }}
+{{ with (eq $.Page.Params.Language "en") }}
+<strong><i class="fa fa-language fa-fw"></i></strong> Englisch/English<br/>
+{{ end }}
 <strong><i class="fa fa-map-marker fa-fw"></i></strong> {{ partial "location" .Page.Params.Location }}
 </p>
 {{ if isset .Page.Params "recording" }}
