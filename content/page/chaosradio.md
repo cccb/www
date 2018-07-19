@@ -23,7 +23,9 @@ und findet im monatlichen Wechsel im Fritz-Sendestudio (ungerade Monate)
 oder dem CCCB (gerade Monate) statt. Bei CCCB-Sendungen ist
 Live-Publikum gern gesehen.
 
-Moderator im Studio ist [Marcus Richter](Marcus_Richter "wikilink").
+Details zu den Sendungen gibt es auf der [Chaosradio
+Webseite](https://chaosradio.ccc.de).  Dank dem [VOC](https://c3voc.de) gibt es
+einen [Livestream](https://streaming.media.ccc.de/chaosradio) mit Video.
 
 Kontaktaufnahme
 ---------------
