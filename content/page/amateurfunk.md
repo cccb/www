@@ -25,3 +25,19 @@ Mailingliste](http://lists.chaoswelle.de/listinfo/berlin) statt.
 
 Für Fragen kannst Du Dich an Lars (Rufzeichen DC4LW) unter <dc4lw@darc.de>
 wenden.
+
+## Kurse
+
+Wir bieten am 10. September 2018 um 18 Uhr in den Räumen des CCCB einen
+Info-Termin an, bei dem wir den Lehrgang vorstellen und gerne Fragen
+beantworten.
+
+In 14 Unterrichtseinheiten ab Mitte September 2018 bis zum Jahresende werden
+die nötigen [Inhalte für die Klasse E]({{< ref "afu-kurs-e.md" >}})
+vermittelt, das ist der erster Teil des Lehrgangs. In vierzehn weiteren
+Einheiten des zweiten Teils kommen im Winter 2019 die zusätzlichen [Inhalte für
+die Klasse A]({{< ref "afu-kurs-e.md" >}}) an die Reihe. Wir treffen uns
+wöchentlich am Montagabend im Zeitraum von 18:00 Uhr bis 20:30 Uhr (mit kurzen
+Pausen zwischendurch).
+
+Details gibt es auf der Seite der [Chaoswelle](https://www.chaoswelle.de/Lehrgang_Berlin_2018).
