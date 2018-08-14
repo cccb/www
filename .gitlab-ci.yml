@@ -12,7 +12,7 @@ variables:
 
 build_pages:
   image: "golang:1.10-alpine3.8"
-  stage: build
+  stage: pages
   variables:
     SHELL: "/bin/sh"
   script:
