@@ -1,21 +1,23 @@
 #!/usr/bin/env python3
 
 import sys
-from datetime import datetime, timedelta
-from dateutil.parser import parse
-from dateutil.rrule import rruleset, rrulestr
-import icalendar
-import locale
 import logging
-
+import locale
 from pprint import pprint
+from dateutil.parser import parse
+from datetime import datetime, timedelta
+from dateutil.rrule import rruleset, rrulestr
+
+import icalendar
+
 
 def vevent_to_event(event, rrstart=None):
 	if rrstart == None:
 		begin = parse(event['DTSTART'].to_ical())
 	else:
-		begin = rrstart 
+		begin = rrstart
 	return { "name": event['SUMMARY'].to_ical(), "url": event['URL'].to_ical(), "begin": begin }
+
 
 def parse_single_event(event, start, end):
 	logging.info("Processing single event %s" % event['SUMMARY'].to_ical().decode('utf-8'))
@@ -24,6 +26,7 @@ def parse_single_event(event, start, end):
 		return vevent_to_event(event)
 	else:
 		return None
+
 
 def parse_recurring_event(event, start, end):
 	logging.info("Processing recurring event %s" % event['SUMMARY'].to_ical().decode('utf-8'))
@@ -71,7 +74,8 @@ def format_events(events):
 			% (dateStr, event['url'].decode('utf-8'), event['name'].decode('utf-8')))
 	print('</table>')
 
-def main():
+
+if __name__ == "__main__":
 	if len(sys.argv) < 3:
 		print("Usage: %s calendar max_days max_items" % sys.argv[0])
 		sys.exit(-1)
@@ -84,5 +88,3 @@ def main():
 	events=find_events(calendar, datetime.now(), datetime.now() + timedelta(days=max_days), max_items)
 	format_events(events)
 
-if __name__ == "__main__":
-	main()
