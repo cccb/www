@@ -53,11 +53,14 @@ menu:
 
 mediaTypes:
   text/calendar":
-    suffix: "ics"
+    suffixes:
+    - "ics"
   application/rss:
-    suffix: "rss"
+    suffixes:
+    - "rss"
   application/xml:
-    suffix: "xml"
+    suffixes:
+    - "xml"
 
 
 outputFormats:
