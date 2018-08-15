@@ -6,6 +6,7 @@ stages:
 cache:
   paths:
     - ~/.cache/pip/
+    - static/
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
