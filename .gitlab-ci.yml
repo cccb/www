@@ -45,8 +45,12 @@ deploy_staging:
   variables:
     SHELL: "/bin/sh"
   script:
-    - echo "deploy all the things..."
-    - ls -la public/
+    - apk --no-cache --upgrade add openssh-client rsync
+    - mkdir -p ~/.ssh
+    - eval $(ssh-agent -s)
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - ssh-add <(echo "$PRIVATE_KEY")
+    - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:s
   when: on_success
   environment:
     name: staging
