@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.berlin.ccc.de/cccb/www/badges/master/pipeline.svg)](https://gitlab.berlin.ccc.de/cccb/www/commits/master)
+
 Running a dev setup
 -------------------
 
