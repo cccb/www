@@ -84,5 +84,5 @@ deploy_production:
     paths:
       - public/
   only:
-     - staging
+     - production
 
