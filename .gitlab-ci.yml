@@ -78,7 +78,7 @@ deploy_production:
     - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:production/s
   when: on_success
   environment:
-    name: staging
+    name: production
     url: https://berlin.ccc.de/
   artifacts:
     paths:
