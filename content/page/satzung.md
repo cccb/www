@@ -7,7 +7,7 @@ menu:
     parent: "verein"
 ---
 
-_Stand: 12. Februar 2008_
+_Stand: 27. Januar 2009_
 
 Präambel
 --------
@@ -192,15 +192,14 @@ vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das
 Protokoll ist allen Mitgliedern zugänglich zu machen und auf der
 nächsten Mitgliederversammlung genehmigen zu lassen.
 
-\(7) Die Wahl des Vorstandes erfolgt durch Einzelabstimmung mit einfacher
-Mehrheit.
+\(7) Das Wahlverfahren des Vorstandes ist wie folgt: Zunächst sammelt der Versammlungsleiter unter Berücksichtigung von Paragraph 9, Absatz 1 Vorschläge, aus wievielen Mitgliedern der Vorstand bestehen soll. Über diese Vorschläge wird in einem einzigen Wahlgang abgestimmt. Der Vorschlag mit den meisten Stimmen gewinnt die Wahl. Anschliessend sammelt der Versammlungsleiter Vorschläge für Kandidaten zum Vorstandsamt. Im dem folgenden einzelnen Wahlgang gewinnen jene im ersten Wahlgang bestimmte Zahl an Kandidaten, die die im Verhältnis meisten Stimmen über sich vereinigen. Im Fall eines durch Stimmgleichheit nicht eindeutigen Wahlergebnisses entscheidet die Stichwahl.
 
 § 9: Vorstand
 -------------
 
 \(1) Der Vorstand besteht aus mindestens drei Mitgliedern.
 
-\(2) Vorstand im Sinne des § 26, Abs. 2 BGB ist jedes Vorstandsmitglied.
+\(2) Vorstand im Sinne des § 26, Abs. 2 BGB ist jedes Vorstandsmitglied. Ausgenommen sind Rechtsgeschäfte von über 500 €, Einstellung und Entlassung von Angestellten, gerichtliche Vertretung sowie Anzeigen, Aufnahme von Krediten, die durch zwei Vorstandsmitglieder vertreten werden.
 
 \(3) Ist mehr als ein Vorstandsmitglieder dauernd an der Ausübung seines
 Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
@@ -211,12 +210,7 @@ ist zulässig.
 \(5) Der Vorstand ist Dienstvorgesetzter aller vom Club angestellten
 Mitarbeiter; er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 
-\(6) Der Schatzmeister überwacht die Haushaltsführung und verwaltet das
-Vermögen des Clubs. Er hat auf eine sparsame und wirtschaftliche
-Haushaltsführung hinzuwirken. Mit dem Ablauf des Geschäftsjahres stellt
-er unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige
-Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Clubs zur
-Prüfung zur Verfügung.
+\(6) Der Schatzmeister ist Vorstandsmitglied und überwacht die Haushaltsführung und verwaltet das Vermögen des Clubs. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken. Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichen Belang den Finanzprüfern des Clubs zur Prüfung zur Verfügung.
 
 \(7) Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie
 haben Anspruch auf Erstattung notwendiger Auslagen im Rahmen einer von
