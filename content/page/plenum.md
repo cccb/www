@@ -10,9 +10,9 @@ menu:
     parent: "verein"
 ---
 
-Das Plenum findet am ersten Mittwoch des Monats ab 20:00 Uhr in den Clubräumen
+Das Plenum findet in der Regel am ersten Mittwoch des Monats ab 20:00 Uhr in den Clubräumen
 des CCCB statt.
 
 Als Instrument der internen Konsensbildung, bei dem Interna diskutiert werden,
-richtet sich das Plenum aussließlich an Member oder explizit eingeladene Gäste.
+richtet sich das Plenum aussließlich an Mitglieder oder explizit eingeladene Gäste.
 
