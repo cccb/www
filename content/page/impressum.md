@@ -36,5 +36,5 @@ Der Vorstand des Chaos Computer Club Berlin / CCC (B) e.V. Adresse siehe oben.
 
 ## Datenschutzerklärung
 
-Beachten Sie auch unsere [Datenschutzerklärung]({{< ref "page/datenschutz.md" >}}).
+Beachten Sie auch unsere [Datenschutzerklärung]({{< ref "/page/datenschutz.md" >}}).
 
