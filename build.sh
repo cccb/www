@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-hugo
+hugo $(cat .hugo-params)
 tools/merge_cals.py
 upcoming="$(tools/gen_upcoming.py static/all.ics 14 5|tr '\n' ' ')"
 cp static/all.ics public/all.ics
