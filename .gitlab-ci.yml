@@ -20,7 +20,7 @@ build_pages:
     untracked: true
   script:
     - apk add --no-cache --upgrade hugo
-    - hugo
+    - hugo $(cat .hugo-params)
 
 build_calendar:
   image: "python:3.7-alpine3.8"
