@@ -17,6 +17,7 @@ build_pages:
   variables:
     SHELL: "/bin/sh"
   artifacts:
+    expire_in: "1 week"
     untracked: true
   script:
     - apk add --no-cache --upgrade hugo
@@ -28,6 +29,7 @@ build_calendar:
   dependencies: 
     - build_pages
   artifacts:
+    expire_in: "1 week"
     untracked: true
   variables:
     SHELL: "/bin/sh"
@@ -57,6 +59,7 @@ deploy_staging:
     name: staging
     url: https://staging.berlin.ccc.de/
   artifacts:
+    expire_in: "1 week"
     paths:
       - public/
   only:
@@ -81,6 +84,7 @@ deploy_production:
     name: production
     url: https://berlin.ccc.de/
   artifacts:
+    expire_in: "1 week"
     paths:
       - public/
   only:
