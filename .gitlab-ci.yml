@@ -51,7 +51,7 @@ deploy_staging:
     - eval $(ssh-agent -s)
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
     - echo "$PRIVATE_KEY" | ssh-add -
-    - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:staging/s
+    - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:staging
   when: on_success
   environment:
     name: staging
@@ -75,7 +75,7 @@ deploy_production:
     - eval $(ssh-agent -s)
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
     - echo "$PRIVATE_KEY" | ssh-add -
-    - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:production/s
+    - rsync -e "ssh -l deploy -p 31337" -av public/ 195.54.164.87:production
   when: on_success
   environment:
     name: production
