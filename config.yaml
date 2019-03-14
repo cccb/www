@@ -1,4 +1,3 @@
-baseURL: "https://staging.berlin.ccc.de/s"
 languageCode: "de-de"
 title: "Chaos Computer Club Berlin"
 theme: "beautifulhugo"
