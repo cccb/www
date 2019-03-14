@@ -2,9 +2,6 @@
 title: "Amateurfunk"
 subtitle: "Funken und Löten im CCCB"
 date: 2018-05-17T22:41:48+02:00
-#dtstart: 20180709T200000
-#dtend:   20180709T220000
-#rrule:   "FREQ=WEEKLY;BYDAY=MO;INTERVAL=1"
 menu:
   main:
     parent: "veranstaltungen"
