@@ -4,6 +4,11 @@ subtitle: "Die offenen Abende im CCCB"
 date: 2018-05-17T22:59:56+02:00
 dtstart: 20180703T190000
 dtend:   20180704T000000
+rrule_excludes:
+  - 20190815T190000 
+  - 20190820T190000 
+  - 20190822T190000 
+  - 20190827T190000 
 rrule:   "FREQ=WEEKLY;BYDAY=TU,TH;INTERVAL=1"
 menu:
   main:
