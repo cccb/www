@@ -38,7 +38,7 @@ build_calendar:
     - pip install -r requirements.txt
     - python tools/merge_cals.py
     - cp static/all.ics public/all.ics
-    - upcoming="$(python tools/gen_upcoming.py static/all.ics 14 5|tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+    - upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5|tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
 
 deploy_staging:
   image: "alpine:3.8"
