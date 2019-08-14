@@ -7,7 +7,7 @@ berlin.ccc.de ist eine Publikation des Chaos Computer Clubs Berlin e.V.
 
 Inhalte der einzelnen Postings ist den jeweiligen Autoren zuzuschreiben. Links, die auf andere Server verweisen, dürfen in keinem Fall angeklickt werden. Bei Zuwiderhandlungen übernehmen wir keine Haftung. Copyright ist Aberglaube.
 
-## Addresse
+## Adresse
 
 ```
 Chaos Computer Club Berlin / CCC (B) e.V.
