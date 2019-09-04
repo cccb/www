@@ -8,7 +8,7 @@ Running a dev setup
 * Switch directory: `cd www`
 * Fetch Submodules: `git submodule update --recursive --remote --init`
 * run hugo webserver: `hugo serve`
-* Point your browser to `http://localhost:1313/s/`
+* Point your browser to `http://localhost:1313/`
 * To ready your site for upload, run "./build.sh", which also generates all.ics
   and adds the calendar table to index.html
 
