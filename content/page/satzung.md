@@ -7,7 +7,7 @@ menu:
     parent: "verein"
 ---
 
-_Stand: 17. März 2009_
+_Stand: 17. März 2019_
 
 ## Präambel
 
