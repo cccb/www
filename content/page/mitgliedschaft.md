@@ -27,12 +27,8 @@ Das Verfahren in etwa ist wie folgt (in chronologischer Reihenfolge):
 
 # Kosten 
 
-Die Mitgliedschaft im CCCB kostet monatlich 15 Euro regulär (8,50 Euro ermäßigt). Anspruch auf Ermäßigung haben z.B. Schüler und Arbeitslose. Darüber hinaus kann ein individueller Fördertarif beantragt werden.
+Die Mitgliedschaft im CCCB kostet monatlich 20 Euro regulär (10 Euro ermäßigt). Anspruch auf Ermäßigung haben z.B. Schüler und Arbeitslose. Darüber hinaus kann ein individueller Fördertarif beantragt werden.
 
-# Doppelmitgliedschaft
-
-Die sogenannte Doppelmitglieschaft, bei der CCCB-Mitglieder automatisch Mitglieder des CCC e.V. wurden, wurde 2017 abgeschafft.
- 
 # Mitgliedschaft beantragen 
 
 Mitgliedsanträge bekommst du von den Mitgliedern 
