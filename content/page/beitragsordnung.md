@@ -1,10 +1,10 @@
 ---
 title: "Beitragsordnung"
 subtitle: "Chaos Computer Club Berlin / CCC(B) e.V."
-date: 2019-05-14T10:00:00+02:00
+date: 2020-01-19T10:00:00+02:00
 ---
 
-_Stand: 17. März 2009_
+_Stand: 19. Januar 2020__
 
 1. Der monatliche Mitgliedsbeitrag beträgt 20 €.
 2. Ein ermäßigter monatlicher Mitgliedsbeitrag von 10,00 € kann von
@@ -20,8 +20,6 @@ _Stand: 17. März 2009_
    werden.
 6. Der Mitgliedsbeitrag kann entweder monatlich, vierteljährlich oder
    jährlich im Voraus bezahlt werden.
-7. Der Mitgliedsbeitrag kann auf folgenden Wegen bezahlt werden:
-  1. durch Überweisung.
-  2. durch Teilnahme am Lastschriftverfahren.
+7. Der Mitgliedsbeitrag kann ausschließlich per Überweisung bezahlt werden.
 
 
