@@ -4,7 +4,7 @@ subtitle: "Chaos Computer Club Berlin / CCC(B) e.V."
 date: 2020-01-19T10:00:00+02:00
 ---
 
-_Stand: 19. Januar 2020__
+_Stand: 19. Januar 2020_
 
 1. Der monatliche Mitgliedsbeitrag beträgt 20 €.
 2. Ein ermäßigter monatlicher Mitgliedsbeitrag von 10,00 € kann von
