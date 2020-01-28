@@ -48,7 +48,6 @@ Mitgliedsanträge werden spätestens zum Monatsanfang des kommenden Monats bearb
 Bitte beachte, dass folgende Felder ausgefüllt sind:
 
 * Ich-habe-die-Satzungen-gelesen-Checkbox
-* Einzugszyklus für Lastschrift (nicht zutreffendes bitte streichen)
 * korrekte Mailadresse, wenn vorhanden
 * Unterschrift, Datum
 
@@ -61,14 +60,6 @@ Fragen zur Mitgliedschaft können an <vorstand@berlin.ccc.de> gerichtet werden.
 ## Dauerauftrag
 
 Du kannst bei deiner Bank einen Dauerauftrag konfigurieren und uns monatlich, quartalsweise oder jährlich im voraus den Mitgliedsbeitrag überweisen. Bitte benutze '''klare Bezeichner''' (bevorzugt: ''Mitgliedsbeitrag'') in den Freitextfeldern des Überweisungsformulars. Wir parsen unsere Kontoauszüge mit einem Skript. Einheitliche Benennung erleichtert unsere Arbeit.
-
-## Lastschriftverfahren
-
-Deinen Mitgliedsbeitrag kannst du dir via Lastschrift vom Konto abbuchen lassen, wenn du entsprechendes auf dem Antragsformular ausfüllst. Möchtest du deine Mitgliedschaft zu einem späteren Zeitpunkt auf das Lastschriftverfahren umstellen, dann fülle bitte erneut das Antragsformular aus. Das werten wir dann als schriftliche Einzugsermächtigung.
-
-Bitte beachte, dass bei ungenügender Kontodeckung die Lastschrift nicht erfolgt und dem Club 8,66 Euro Kosten entstehen. Uns entstehen ebenfalls Kosten, wenn das Konto nicht (mehr) existiert. Überprüfe bitte die Kontonummer auf deinem Mitgliedsantrag und teile uns rechtzeitig mit, wenn du dein Bankkonto kündigst. Die Kosten für fehlgeschlagene Buchungen werden auf dich umgelegt, ausser du kannst nichts dafür und der Vorstand hat es verpeilt.
-
-Wir versuchen jeweils in der ersten Woche eines Monats die Mitgliedsbeiträge abzubuchen.
 
 ## Barzahlung
 
