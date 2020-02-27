@@ -17,7 +17,7 @@ menu:
 findet in der Regel immer am letzten Donnerstag im Monat statt, Ausnahmen sind
 möglich. Regelmäßige Ausnahme ist der Dezember, da dort die Sendung wg.
 [Chaos Communication Congress](Chaos_Communication_Congress "wikilink")
-nicht stattfindet. Die Sendung beginnt um 22:00 Uhr, endet um 0:00 Uhr
+nicht stattfindet. Die Sendung beginnt um 20:15 Uhr, endet um ca. 22:00 Uhr
 und findet im CCCB vor Live-Publikum statt. 
 
 Details zu den Sendungen gibt es auf der [Chaosradio
