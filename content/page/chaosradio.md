@@ -4,7 +4,7 @@ subtitle: "Content für den Podcast Client"
 date: 2020-02-27T01:00:00+02:00
 dtstart: 20200227T200000
 dtend:   20200227T220000
-rrule:   "FREQ=MONTHLY;BYSETPOS=-1;BYDAY=MO;INTERVAL=1"
+rrule:   "FREQ=MONTHLY;BYSETPOS=-1;BYDAY=TH;INTERVAL=1"
 location: "CCCB"
 menu:
   main:
