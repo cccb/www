@@ -24,8 +24,6 @@ Details zu den Sendungen gibt es auf der [Chaosradio
 Webseite](https://chaosradio.de).  Dank dem [VOC](https://c3voc.de) gibt es
 einen [Livestream](https://streaming.media.ccc.de/chaosradio) mit Video.
 
-Aktuell befindet sich das Chaosradio in einer kreativen Pause.
-
 Kontaktaufnahme
 ---------------
 
