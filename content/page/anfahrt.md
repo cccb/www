@@ -27,7 +27,7 @@ Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalba
 ## mit dem Flugzeug
 
 * von **Tegel** (TXL/EDDT): Buslinie TXL bis zum Halt *Marschallbrücke*. Die Luisenstraße bis hinter das Bahnviadukt zurücklaufen. Die Marienstaße befindet sich dann unmittelbar rechter Hand.
-* von **Schönefeld** (SFX/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
+* von **Schönefeld** (SXF/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
 * von **Straußberg** (EDAY): S7 direkt bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt öffentlicher Nahverkehr.
 
 ## mit dem Auto
