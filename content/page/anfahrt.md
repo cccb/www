@@ -16,6 +16,10 @@ Die Clubräume liegen im Hinterhof in der **Marienstr. 11, 10117 Berlin** ([Goog
 
 # Ich reise an...
 
+## mit dem Rad
+
+Eine beschränkte Anzahl von Fahrradständern befindet sich im Innenhof. Auf dem Weg zum Club befinden sich zahlreiche Fahrradstraßen, die bevorzugt werden sollten. Nutzt beispielsweise [BBBike.de](http://bbbike.de/cgi-bin/bbbike.cgi).
+
 ## mit öffentlichem Nahverkehr
 
 Der Club befindet sich in unmittelbarer Nähe zum S+U Bahnhof **Friedrichstraße**, an dem auch Regionalbahnen halten. Vom S-Bahn-Bahnsteig gibt es einen direkten Weg über die Spree unterhalb der Bahnbrücke. Über die Albrechtstraße erreicht ihr die Marienstraße.
@@ -26,7 +30,7 @@ Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalba
 
 ## mit dem Flugzeug
 
-* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Bei Ankunft am Terminal 5 (früher: SFX) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht die S9 zur Verfügung.
+* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Terminal 5 (früher: SFX) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht hier die S9 zur Verfügung.
 * vom **Flufplatz Straußberg** (EDAY): S7 direkt bis zum **Bahnhof Friedrichstraße**. Von dort siehe Abschnitt **öffentlicher Nahverkehr**.
 
 ## mit dem Auto
@@ -35,6 +39,3 @@ Am besten dem Navigationsgerät folgen. Zufahrt aus Richtung Hauptbahnhof oder B
 
 **Warnung:** Vor Ort gibt es je nach Tageszeit wenige Parkmöglichkeiten. Die Marienstraße und alle umliegenden Straßen unterliegen der Parkraumbewirtschaftung seitens des Bezirks. Parkplätze in unmittelbarer Nähe sind selten.
 
-## mit dem Rad
-
-Eine beschränkte Anzahl von Fahrradständern befindet sich im Innenhof.
