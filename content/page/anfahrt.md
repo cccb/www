@@ -26,8 +26,8 @@ Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalba
 
 ## mit dem Flugzeug
 
-* von **Schönefeld** (SXF/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
-* von **Straußberg** (EDAY): S7 direkt bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt öffentlicher Nahverkehr.
+* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Bei Ankunft am Terminal 5 (früher: SFX) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht die S9 zur Verfügung.
+* vom **Flufplatz Straußberg** (EDAY): S7 direkt bis zum **Bahnhof Friedrichstraße**. Von dort siehe Abschnitt **öffentlicher Nahverkehr**.
 
 ## mit dem Auto
 
@@ -35,4 +35,6 @@ Am besten dem Navigationsgerät folgen. Zufahrt aus Richtung Hauptbahnhof oder B
 
 **Warnung:** Vor Ort gibt es je nach Tageszeit wenige Parkmöglichkeiten. Die Marienstraße und alle umliegenden Straßen unterliegen der Parkraumbewirtschaftung seitens des Bezirks. Parkplätze in unmittelbarer Nähe sind selten.
 
+## mit dem Rad
 
+Eine beschränkte Anzahl von Fahrradständern befindet sich im Innenhof.
