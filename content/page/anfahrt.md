@@ -8,13 +8,17 @@ menu:
 
 # Allgemeine Hinweise
 
-Die Clubräume liegen im Hinterhof in der **Marienstr. 11, 10117 Berlin** ([Google](http://maps.google.com/maps?hl=de&q=Marienstr.%2011%2C%2010117%20Berlin), [OpenStreetMap](http://www.openstreetmap.org/node/2007229025#map=17/52.52159/13.38547)). Die Koordinaten sind **52,52194° Nord; 13,38261° Ost**.
+Die Clubräume liegen im Hinterhof der **Marienstr. 11, 10117 Berlin** ([Google](http://maps.google.com/maps?hl=de&q=Marienstr.%2011%2C%2010117%20Berlin), [OpenStreetMap](http://www.openstreetmap.org/node/2007229025#map=17/52.52159/13.38547)). Die Koordinaten sind **52,52194° Nord; 13,38261° Ost**.
 
 # Nahbereichskarte
 
 {{< figure src="/img/anfahrt.jpg" title="Anfahrtskarte CCCB (Daten von OpenStreetMap - Veröffentlicht unter ODbL)" >}}
 
 # Ich reise an...
+
+## mit dem Rad
+
+Eine beschränkte Anzahl von Fahrradständern befindet sich im Innenhof. Auf dem Weg zum Club befinden sich zahlreiche Fahrradstraßen, die bevorzugt werden sollten. Nutzt beispielsweise [BBBike.de](http://bbbike.de/cgi-bin/bbbike.cgi).
 
 ## mit öffentlichem Nahverkehr
 
@@ -26,13 +30,12 @@ Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalba
 
 ## mit dem Flugzeug
 
-* von **Schönefeld** (SXF/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt Fernverkehr.
-* von **Straußberg** (EDAY): S7 direkt bis zum *Bahnhof Friedrichstraße*. Von dort siehe Abschnitt öffentlicher Nahverkehr.
+* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Terminal 5 (früher: SFX) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht hier die S9 zur Verfügung.
+* vom **Flufplatz Straußberg** (EDAY): S7 direkt bis zum **Bahnhof Friedrichstraße**. Von dort siehe Abschnitt **öffentlicher Nahverkehr**.
 
 ## mit dem Auto
 
 Am besten dem Navigationsgerät folgen. Zufahrt aus Richtung Hauptbahnhof oder Brandenburger Tor ist über die Luisenstraße möglich. Wer von der Friedrichstraße kommt, fährt entweder über den Schiffbauerdamm und die Albrechtstraße (Behinderung durch Außgengastronomie und Kopfsteinpflaster) oder fährt über die Reinhardstraße und die Luisenstraße (die Albrechtstraße ist nur in die Gegenrichtung befahrbar).
 
 **Warnung:** Vor Ort gibt es je nach Tageszeit wenige Parkmöglichkeiten. Die Marienstraße und alle umliegenden Straßen unterliegen der Parkraumbewirtschaftung seitens des Bezirks. Parkplätze in unmittelbarer Nähe sind selten.
-
 
