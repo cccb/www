@@ -3,14 +3,14 @@ title: "Impressum"
 date: 2018-05-17T22:56:07+02:00
 ---
 
-berlin.ccc.de ist eine Publikation des Chaos Computer Clubs Berlin e.V.
+berlin.ccc.de ist eine Publikation des Chaos Computer Clubs Berlin e. V.
 
 Inhalte der einzelnen Postings ist den jeweiligen Autoren zuzuschreiben. Links, die auf andere Server verweisen, dürfen in keinem Fall angeklickt werden. Bei Zuwiderhandlungen übernehmen wir keine Haftung. Copyright ist Aberglaube.
 
 ## Adresse
 
 ```
-Chaos Computer Club Berlin / CCC (B) e.V.
+Chaos Computer Club Berlin / CCC (B) e. V.
 Der Vorstand
 Marienstrasse 11
 10117 Berlin
@@ -19,7 +19,7 @@ Marienstrasse 11
 ## Postanschrift
 
 ```
-Chaos Computer Club Berlin e.V.
+Chaos Computer Club Berlin e. V.
 Postfach 64 02 36
 10048 Berlin
 ```
@@ -32,7 +32,7 @@ Hinweis: Bitte schickt uns keine Übergabeeinschreiben, wir haben keinen regulä
 
 ## V.i.S.d § 55 Abs. 2 RStV
 
-Der Vorstand des Chaos Computer Club Berlin / CCC (B) e.V. Adresse siehe oben.
+Der Vorstand des Chaos Computer Club Berlin / CCC (B) e. V. Adresse siehe oben.
 
 ## Datenschutzerklärung
 
