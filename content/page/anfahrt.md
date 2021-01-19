@@ -30,7 +30,7 @@ Aussteigen in **Berlin Hauptbahnhof**. Von dort mit jeder S-Bahn oder Regionalba
 
 ## mit dem Flugzeug
 
-* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Terminal 5 (früher: SFX) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht hier die S9 zur Verfügung.
+* vom **Flughafen Berlin Brandenburg** (BER/EDDB): mit dem Airport Express (RE 7 und RB 14) oder S9 bis zum **Bahnhof Friedrichstraße**. Alternativ mit dem FEX bis **Berlin Hauptbahnhof**. Von dort siehe jeweils Abschnitt **Fernverkehr**. **Achtung:** Terminal 5 (früher: SXF) ist nicht mit dem Rest des BER verbunden. Als einzige direkte Bahnanbindung steht hier die S9 zur Verfügung.
 * vom **Flugplatz Straußberg** (EDAY): S7 direkt bis zum **Bahnhof Friedrichstraße**. Von dort siehe Abschnitt **öffentlicher Nahverkehr**.
 
 ## mit dem Auto
