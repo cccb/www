@@ -24,7 +24,7 @@ Postfach 64 02 36
 10048 Berlin
 ```
 
-E-Mail: <mail@berlin.ccc.de>
+E-Mail: <mail2021@berlin.ccc.de>
 
 Eingetragen im Vereinsregister des Amtsgerichts Berlin Charlottenburg unter der Vereinsregisternummer 16058.
 
