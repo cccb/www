@@ -28,6 +28,8 @@ permalinks:
 Author:
   twitter: "clubdiscordia"
   email: "mail2021@berlin.ccc.de"
+  mastodon: "chaos.social/@clubdiscordia"
+  irc: "https://webirc.hackint.org/#ircs://irc.hackint.org/#cccb"
 
 menu:
   main:
