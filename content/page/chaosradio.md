@@ -23,7 +23,7 @@ Webseite](https://chaosradio.de).
 Kontaktaufnahme
 ---------------
 
-Offizieller IRC Chat wird [\#chaosradio auf
+Offizieller IRC Chat wird unter [\#chaosradio auf
 hackint.org](irc://irc.hackint.org/chaosradio)
 ([Web](https://webirc.hackint.org/)) betrieben.
 
