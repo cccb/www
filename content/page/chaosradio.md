@@ -13,21 +13,28 @@ menu:
 
 ![Chaosradio logo](/img/chaosradio.png)
 
-[Chaosradio](https://chaosradio.ccc.de) ist ein monatlicher Podcast. Er
-findet in der Regel immer am letzten Donnerstag im Monat statt, Ausnahmen sind
-möglich. Regelmäßige Ausnahme ist der Dezember, da dort die Sendung wg.
-[Chaos Communication Congress](Chaos_Communication_Congress "wikilink")
-nicht stattfindet. Die Sendung beginnt um 20:15 Uhr, endet um ca. 22:00 Uhr
-und findet im CCCB vor Live-Publikum statt. 
+[Chaosradio](https://chaosradio.ccc.de) ist der Podcast des CCCB. Seit 2020 zeichen
+wir ihn remote auf. Gelegentlich finden Sendungen vor Live-Publikum im Club, auf
+oder auf CCC-Veranstaltungen statt. Dies kündigen wir im Vorfeld separat an.
+
+# Er
+#findet in der Regel immer am letzten Donnerstag im Monat statt, Ausnahmen sind
+#möglich. Regelmäßige Ausnahme ist der Dezember, da dort die Sendung wg.
+#[Chaos Communication Congress](Chaos_Communication_Congress "wikilink")
+#nicht stattfindet. Die Sendung beginnt um 20:15 Uhr, endet um ca. 22:00 Uhr
+#und findet im CCCB vor Live-Publikum statt. 
 
 Details zu den Sendungen gibt es auf der [Chaosradio
-Webseite](https://chaosradio.de).  Dank dem [VOC](https://c3voc.de) gibt es
-einen [Livestream](https://streaming.media.ccc.de/chaosradio) mit Video.
+Webseite](https://chaosradio.de).
+
+#Dank dem [VOC](https://c3voc.de) gibt es
+#einen [Livestream](https://streaming.media.ccc.de/chaosradio) mit Video.
 
 Kontaktaufnahme
 ---------------
 
 Offizieller IRC Chat wird [\#chaosradio auf
-freenode.net](irc://irc.freenode.net/chaosradio) betrieben.
+hackint.org](irc://irc.hackint.org/chaosradio)
+([Web](https://webirc.hackint.org/)) betrieben.
 
 Allgemeine Anfragen gehen an <chaosradio@ccc.de>.
