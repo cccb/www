@@ -25,7 +25,7 @@ build_pages:
     - hugo $(cat .hugo-params)
 
 build_calendar:
-  image: "python:3.7-alpine3.8"
+  image: "python:3.11.1-alpine3.17"
   stage: calendar
   dependencies: 
     - build_pages
@@ -42,7 +42,7 @@ build_calendar:
     - upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5|tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
 
 deploy_staging:
-  image: "alpine:3.8"
+  image: "alpine:3.17"
   stage: deploy
   dependencies: 
     - build_calendar
@@ -67,7 +67,7 @@ deploy_staging:
      - staging
 
 deploy_production:
-  image: "alpine:3.8"
+  image: "alpine:3.17"
   stage: deploy
   dependencies: 
     - build_calendar
