@@ -20,7 +20,7 @@ Wir wollen die Menschen kennenlernen, bevor sie ein Mitglied im Verein werden ko
 Das Verfahren in etwa ist wie folgt (in chronologischer Reihenfolge):
 
   * Du bist immer mal wieder an offenen Tagen im [Club Discordia](/page/clubdiscordia/) da, und lernst Leute kennen.
-  * Du sprichst mit den 'regulars' und bittest darum, dich vorzustellen.
+  * Du sprichst mit den 'regulars' und wirst ein Teil der aktiven Community.
   * Danach kannst Du einen Mitgliedsantrag ausfüllen und abgeben.
   * Der Vorstand wird die Mitglieder auf der internen Mailingliste nach einem Meinungsbild befragen
   * Der Vorstand gibt Dir nach einiger Zeit bescheid, ob der Antrag angenommen wurde oder nicht.
