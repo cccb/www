@@ -1,0 +1,28 @@
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    target-branch: "staging"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "gh-action"
+    labels:
+      - "gh-action"
+      - "dependencies"
+    reviewers:
+      - "cccb/web"
+  - package-ecosystem: "pip"
+    directory: "/"
+    target-branch: "dev"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "python"
+    labels:
+      - "python"
+      - "dependencies"
+    reviewers:
+      - "cccb/web"
