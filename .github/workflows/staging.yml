@@ -1,0 +1,113 @@
+name: Test deployment
+
+on:
+  push:
+    branches:
+      - staging
+      - production
+  workflow_dispatch:
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build pages
+        run: hugo $(cat .hugo-params)
+      - uses: actions/upload-artifact@v3
+        name: Upload pages
+        with:
+          name: pages
+          path: public
+
+  calendar:
+    needs: [ pages ]
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          cache: 'pip' # caching pip dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: pages
+          path: "."
+      - name: Generate calendars
+        run: python tools/merge_cals.py
+      - name: Copy calendar to output dir
+        run: cp static/all.ics public/all.ics
+      - name: Update homepage with latest event
+        run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5|tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+      - uses: actions/upload-artifact@v3
+        name: Upload pages
+        with:
+          name: enhanced_pages
+          path: public
+  
+  staging:
+    needs: [ calendar ]
+    runs-on: ubuntu-latest
+    environment: staging
+    if: github.ref == 'refs/heads/staging' && github.event_name == 'push'
+    steps:
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: enhanced_pages
+          path: "."
+      - name: Generate timestamp
+        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: staging-${{ env.timestamp }}
+          release_name: Staging release ${{ env.timestamp }}
+          body: New Website staging version ${{ env.timestamp }}
+          draft: false
+          prerelease: false
+  
+  release:
+    needs: [ calendar ]
+    runs-on: ubuntu-latest
+    environment: production
+    if: github.ref == 'refs/heads/production' && github.event_name == 'push'
+    steps:
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: enhanced_pages
+          path: "."
+      - name: Generate timestamp
+        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: production-${{ env.timestamp }}
+          release_name: Production release ${{ env.timestamp }}
+          body: New Website production version ${{ env.timestamp }}
+          draft: false
+          prerelease: false
