@@ -1,5 +1,3 @@
-[![pipeline status](https://gitlab.berlin.ccc.de/cccb/www/badges/master/pipeline.svg)](https://gitlab.berlin.ccc.de/cccb/www/commits/master)
-
 # CCCB Website
 
 This is the website of CCCB.
@@ -42,4 +40,3 @@ Every change you make on the project will be reflected in your browser as long a
 * Gitlab CI is running pipeline. If successfull, check [Staging Website](https://staging.berlin.ccc.de/) if change is correct.
 * Create merge request to merge changes from `staging` to `production`. Ask somebody to check merge request or if small change, merge yourself.
 * Gitlab CI is running pipeline. If successfull, check [Website](https://berlin.ccc.de/) if change is correct.
-
