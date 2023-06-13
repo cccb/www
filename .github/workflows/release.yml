@@ -34,6 +34,11 @@ jobs:
     runs-on: ubuntu-latest
     environment: staging
     steps:
+      - name: Add de_DE.UTF-8 locale
+        run: |
+          apt-get update
+          apt-get -y install locales
+          locale-gen de_DE.UTF-8
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -57,13 +62,13 @@ jobs:
       - name: Copy calendar to output dir
         run: cp static/all.ics public/all.ics
       - name: Update homepage with latest event
-        run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5|tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+        run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
       - uses: actions/upload-artifact@v3
         name: Upload pages
         with:
           name: enhanced_pages
           path: public
-  
+
   staging:
     needs: [ calendar ]
     runs-on: ubuntu-latest
