@@ -52,6 +52,8 @@ jobs:
         run: |
           pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
+      - name: Create directories
+        run: mkdir -p public static
       - name: Download pages
         uses: actions/download-artifact@v3
         with:
