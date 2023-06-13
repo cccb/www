@@ -83,7 +83,7 @@ jobs:
           name: enhanced_pages
           path: public
       - name: Generate timestamp
-        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
+        run: echo "timestamp=$(date --iso-8601=seconds | sed 's/://g;s/+/_/g')" >> $GITHUB_ENV
       - name: Create Release Archive
         uses: thedoctor0/zip-release@0.7.1
         with:
@@ -111,7 +111,7 @@ jobs:
           name: enhanced_pages
           path: public
       - name: Generate timestamp
-        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
+        run: echo "timestamp=$(date --iso-8601=seconds | sed 's/://g;s/+/_/g')" >> $GITHUB_ENV
       - name: Create Release Archive
         uses: thedoctor0/zip-release@0.7.1
         with:
