@@ -55,7 +55,7 @@ def find_events(icsfilestr, start, end, num):
     for event in cal.subcomponents:
         if event.name == "VEVENT":
             if "RRULE" in event.keys():
-                events.append(parse_recurring_event(event, start, end))
+                events.extend(parse_recurring_event(event, start, end))
             elif ev := parse_single_event(event, start, end) != None:
                 events.append(ev)
 
