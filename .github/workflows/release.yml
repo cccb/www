@@ -36,9 +36,9 @@ jobs:
     steps:
       - name: Add de_DE.UTF-8 locale
         run: |
-          apt-get update
-          apt-get -y install locales
-          locale-gen de_DE.UTF-8
+          sudo apt-get update
+          sudo apt-get -y install locales
+          sudo locale-gen de_DE.UTF-8
       - name: Checkout
         uses: actions/checkout@v3
         with:
