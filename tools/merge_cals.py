@@ -6,22 +6,22 @@ import pytz
 import icalendar
 
 
-cals = []
+calendars = []
 merged = icalendar.Calendar()
-merged.add('prodid', '-//CCCB Calendar Generator//berlin.ccc.de//')
-merged.add('version', '2.0')
+merged.add("prodid", "-//CCCB Calendar Generator//berlin.ccc.de//")
+merged.add("version", "2.0")
 
-for icsfilestr in glob('public/*/**/*.ics', recursive=True):
-	with open(icsfilestr, 'r') as icsfile:
-		print('Importing', icsfilestr)
-		cals.append(icalendar.Calendar.from_ical(icsfile.read()))
+for icsfilestr in glob("public/*/**/*.ics", recursive=True):
+	with open(icsfilestr, "r") as icsfile:
+		print(f"Importing {icsfilestr}")
+		calendars.append(icalendar.Calendar.from_ical(icsfile.read()))
 
-for cal in cals:
-	for e in cal.subcomponents:
-		merged.add_component(e)
+for calendar in calendars:
+	for event in calendar.subcomponents:
+		merged.add_component(event)
 
-outfile = 'static/all.ics'
-with open(outfile, 'wb') as f:
-	print(f'writing to {outfile}...')
+outfile = "static/all.ics"
+with open(outfile, "wb") as f:
+	print(f"writing to {outfile}...")
 	f.write(merged.to_ical())
 

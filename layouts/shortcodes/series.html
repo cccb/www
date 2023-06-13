@@ -1,29 +1,29 @@
 {{ $series := or (.Get 0) $.Page.Params.series }}
 <table>
-<tr>
-<th>No.</th>
-<th>Date</th>
-<th>Speaker</th>
-<th>Topic</th>
-<th>Video</th>
-</tr>
-    {{ range $ind,$art := $.Site.Pages.ByDate.Reverse }}
-      {{ if eq $art.Params.series $series }}
-      <tr>
+  <tr>
+    <th>No.</th>
+    <th>Date</th>
+    <th>Speaker</th>
+    <th>Topic</th>
+    <th>Video</th>
+  </tr>
+  {{ range $ind,$art := $.Site.Pages.ByDate.Reverse }}
+    {{ if eq $art.Params.series $series }}
+  <tr>
 	<td>{{ $art.Params.no }}</td>
 	<td>{{ dateFormat "02.01.2006" $art.Params.event.start }}</td>
 	{{ if isset $art.Params "speaker_url" }}
 	<td><a href="{{ $art.Params.speaker_url }}">{{ $art.Params.speaker }}</a></td>
-        {{ else }}
+    {{ else }}
 	<td>{{ $art.Params.speaker }}</td>
-        {{ end }}
-	<td><a href="{{ $art.Permalink }}">{{ $art.Params.subtitle }}</a></td>
-        {{ if $art.Params.recording }}
-	<td><a href="{{ $art.Params.recording }}"><i class="fa fa-video fa-fw"></i></a></td>
-        {{ else }}
-	<td><i class="fa fa-video-slash fa-fw"></i></a></td>
-        {{ end }}
-      </tr>
-      {{ end }}
     {{ end }}
+	<td><a href="{{ $art.Permalink }}">{{ $art.Params.subtitle }}</a></td>
+    {{ if $art.Params.recording }}
+	<td><a href="{{ $art.Params.recording }}"><i class="fa fa-video fa-fw"></i></a></td>
+    {{ else }}
+	<td><i class="fa fa-video-slash fa-fw"></i></a></td>
+    {{ end }}
+  </tr>
+    {{ end }}
+  {{ end }}
 </table>

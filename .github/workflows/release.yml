@@ -1,4 +1,4 @@
-name: Test deployment
+name: Release website
 
 on:
   push:
