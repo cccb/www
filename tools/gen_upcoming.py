@@ -74,7 +74,7 @@ def format_events(events):
             f"<td><a href=\"{event['url'].decode('utf-8')}\">{event['name'].decode('utf-8')}</a></td>"
             "</tr>"
         )
-    print("</table><!--/.table /.table-condensed-->")
+    print("</table><!--/.table .table-condensed-->")
 
 
 if __name__ == "__main__":
