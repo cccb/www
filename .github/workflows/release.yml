@@ -36,9 +36,9 @@ jobs:
     steps:
       - name: Add de_DE.UTF-8 locale
         run: |
-          apt-get update
-          apt-get -y install locales
-          locale-gen de_DE.UTF-8
+          sudo apt-get update
+          sudo apt-get -y install locales
+          sudo locale-gen de_DE.UTF-8
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -58,7 +58,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: pages
-          path: "."
+          path: public/
       - name: Generate calendars
         run: python tools/merge_cals.py
       - name: Copy calendar to output dir
@@ -81,19 +81,23 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: enhanced_pages
-          path: "."
+          path: public
       - name: Generate timestamp
-        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
-      - name: Create Release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        run: echo "timestamp=$(date --iso-8601=seconds | sed 's/://g;s/+/_/g')" >> $GITHUB_ENV
+      - name: Create Release Archive
+        uses: thedoctor0/zip-release@0.7.1
         with:
-          tag_name: staging-${{ env.timestamp }}
-          release_name: Staging release ${{ env.timestamp }}
-          body: New Website staging version ${{ env.timestamp }}
-          draft: false
-          prerelease: false
+          type: zip
+          filename: release-staging-${{ env.timestamp }}.zip
+          directory: public
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          tag: staging-${{ env.timestamp }}
+          name: Website staging version ${{ env.timestamp }}
+          body: Website staging version ${{ env.timestamp }}
+          artifacts: release-staging-${{ env.timestamp }}.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
   
   release:
     needs: [ calendar ]
@@ -105,16 +109,21 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: enhanced_pages
-          path: "."
+          path: public
       - name: Generate timestamp
-        run: echo "timestamp=$(date --iso-8601=seconds)" >> $GITHUB_ENV
-      - name: Create Release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        run: echo "timestamp=$(date --iso-8601=seconds | sed 's/://g;s/+/_/g')" >> $GITHUB_ENV
+      - name: Create Release Archive
+        uses: thedoctor0/zip-release@0.7.1
         with:
-          tag_name: production-${{ env.timestamp }}
-          release_name: Production release ${{ env.timestamp }}
-          body: New Website production version ${{ env.timestamp }}
-          draft: false
-          prerelease: false
+          type: zip
+          filename: release-production-${{ env.timestamp }}.zip
+          directory: public
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          makeLatest: true
+          tag: production-${{ env.timestamp }}
+          name: Website production version ${{ env.timestamp }}
+          body: Website production version ${{ env.timestamp }}
+          artifacts: release-production-${{ env.timestamp }}.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
