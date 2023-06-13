@@ -2,6 +2,7 @@
 
 - DSGVO-compliant Datenschutzerklärung reinbasteln
 - Entscheiden, welche Seiten sonst noch konvertiert werden sollen und welche in die ewigen Datengründe gehen können
+- add nix config to repo
 
 # Done
 
