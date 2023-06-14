@@ -14,5 +14,4 @@ curl -s "https://berlin.ccc.de/api.php?action=query&prop=revisions&rvprop=conten
     | jq -r '.query.pages |..| objects|.["*"]' \
     | sed '/null/d' \
     | pandoc -f mediawiki -t markdown \
-	>> content/$2/$page.md
-
+    >> content/$2/$page.md
