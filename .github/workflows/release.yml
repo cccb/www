@@ -94,7 +94,7 @@ jobs:
           tag: staging-${{ env.timestamp }}
           name: Website staging version ${{ env.timestamp }}
           body: Website staging version ${{ env.timestamp }}
-          artifacts: release-staging-${{ env.timestamp }}.zip
+          artifacts: "release-staging-${{ env.timestamp }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
   
   release:
@@ -123,5 +123,5 @@ jobs:
           tag: production-${{ env.timestamp }}
           name: Website production version ${{ env.timestamp }}
           body: Website production version ${{ env.timestamp }}
-          artifacts: release-production-${{ env.timestamp }}.zip
+          artifacts: "release-production-${{ env.timestamp }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
