@@ -5,6 +5,7 @@ on:
     branches:
       - staging
       - production
+  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -97,7 +98,7 @@ jobs:
           artifacts: release-staging-${{ env.timestamp }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
   
-  release:
+  production:
     needs: [ calendar ]
     runs-on: ubuntu-latest
     environment: production
