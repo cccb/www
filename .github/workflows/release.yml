@@ -86,7 +86,7 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: zip
-          filename: release-staging-${{ env.timestamp }}.zip
+          filename: ../release-staging-${{ env.timestamp }}.zip
           directory: public
       - name: Create Release
         uses: ncipollo/release-action@v1.12.0
@@ -94,7 +94,7 @@ jobs:
           tag: staging-${{ env.timestamp }}
           name: Website staging version ${{ env.timestamp }}
           body: Website staging version ${{ env.timestamp }}
-          artifacts: "release-staging-${{ env.timestamp }}.zip"
+          artifacts: release-staging-${{ env.timestamp }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
   
   release:
@@ -114,7 +114,7 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: zip
-          filename: release-production-${{ env.timestamp }}.zip
+          filename: ../release-production-${{ env.timestamp }}.zip
           directory: public
       - name: Create Release
         uses: ncipollo/release-action@v1.12.0
@@ -123,5 +123,5 @@ jobs:
           tag: production-${{ env.timestamp }}
           name: Website production version ${{ env.timestamp }}
           body: Website production version ${{ env.timestamp }}
-          artifacts: "release-production-${{ env.timestamp }}.zip"
+          artifacts: release-production-${{ env.timestamp }}.zip
           token: ${{ secrets.GITHUB_TOKEN }}
