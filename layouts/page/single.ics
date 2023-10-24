@@ -31,7 +31,7 @@ DTEND;TZID=Europe/Berlin:{{.Params.dtend}}
 RRULE:{{.Params.rrule}}
 {{if isset .Params "rrule_excludes" }}
 {{range .Params.rrule_excludes }}
-EXDATE;TZID=Europe/Berlin:{{.}} 
+EXDATE;TZID=Europe/Berlin:{{.}}
 {{end -}}
 {{end -}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}CCCB{{end}}

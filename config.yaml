@@ -16,6 +16,8 @@ Params:
   readingTime: true
   useHLJS: true
   DateForm: "30.12.2006"
+  # for GDPR / EU-DSGVO compliance
+  selfHosted: true
 
 taxonomies:
   category: "categories"
@@ -63,7 +65,6 @@ mediaTypes:
     suffixes:
     - "xml"
 
-
 outputFormats:
   RSS:
     mediaType: "application/rss"
@@ -72,11 +73,12 @@ outputFormats:
     mediaType: "application/xml"
 
 outputs:
-  section: 
-   - "HTML"
-   - "Calendar"
-   - "RSS"
-   - "XML"
+  section:
+  - "HTML"
+  - "Calendar"
+  - "RSS"
+  - "XML"
   page:
-   - "HTML"
-   - "Calendar"
+  - "HTML"
+  - "Calendar"
+

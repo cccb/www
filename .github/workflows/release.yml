@@ -1,0 +1,126 @@
+name: Release website
+
+on:
+  push:
+    branches:
+      - staging
+      - production
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build pages
+        run: hugo $(cat .hugo-params)
+      - uses: actions/upload-artifact@v3
+        name: Upload pages
+        with:
+          name: pages
+          path: public
+
+  calendar:
+    needs: [ pages ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add de_DE.UTF-8 locale
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install locales
+          sudo locale-gen de_DE.UTF-8
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          cache: 'pip' # caching pip dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: pages
+          path: public/
+      - name: Generate calendars
+        run: python tools/merge_cals.py
+      - name: Copy calendar to output dir
+        run: cp static/all.ics public/all.ics
+      - name: Update homepage with latest event
+        run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+      - uses: actions/upload-artifact@v3
+        name: Upload pages
+        with:
+          name: enhanced_pages
+          path: public
+
+  staging:
+    needs: [ calendar ]
+    runs-on: ubuntu-latest
+    environment: staging
+    if: github.ref == 'refs/heads/staging' && github.event_name == 'push'
+    steps:
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: enhanced_pages
+          path: public
+      - name: Generate timestamp
+        run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
+      - name: Create Release Archive
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: zip
+          filename: ../release-staging-${{ env.timestamp }}.zip
+          directory: public
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          tag: staging-${{ env.timestamp }}
+          name: Website staging version ${{ env.timestamp }}
+          body: Website staging version ${{ env.timestamp }}
+          artifacts: release-staging-${{ env.timestamp }}.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+  
+  production:
+    needs: [ calendar ]
+    runs-on: ubuntu-latest
+    environment: production
+    if: github.ref == 'refs/heads/production' && github.event_name == 'push'
+    steps:
+      - name: Download pages
+        uses: actions/download-artifact@v3
+        with:
+          name: enhanced_pages
+          path: public
+      - name: Generate timestamp
+        run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
+      - name: Create Release Archive
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: zip
+          filename: ../release-production-${{ env.timestamp }}.zip
+          directory: public
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          makeLatest: true
+          tag: production-${{ env.timestamp }}
+          name: Website production version ${{ env.timestamp }}
+          body: Website production version ${{ env.timestamp }}
+          artifacts: release-production-${{ env.timestamp }}.zip
+          token: ${{ secrets.GITHUB_TOKEN }}

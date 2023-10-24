@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-	{{ partial "talk-infobox" . }}
+        {{ partial "talk-infobox" . }}
         {{ .Content }}
 
         {{ if .Params.tags }}
@@ -11,7 +11,7 @@
             {{ range .Params.tags }}
               <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
             {{ end }}
-          </div>
+          </div><!--/.blog-tags-->
         {{ end }}
 
         {{ if .Site.Params.socialShare }}
@@ -19,24 +19,24 @@
             <section id="social-share">
               <ul class="list-inline footer-links">
                 {{ partial "share-links" . }}
-              </ul>
-            </section>
+              </ul><!--/.social-share-->
+            </section><!--/.list-inline .footer-links-->
         {{ end }}
-      </article>
+      </article><!--/.blog-post-->
 
       {{ if ne .Type "page" }}
         <ul class="pager blog-pager">
           {{ if .PrevInSection }}
             <li class="previous">
               <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
-            </li>
+            </li><!--/.previous-->
           {{ end }}
           {{ if .NextInSection }}
             <li class="next">
               <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
-            </li>
+            </li><!--/.next-->
           {{ end }}
-        </ul>
+        </ul><!--/.pager .blog-pager-->
       {{ end }}
 
 
@@ -44,16 +44,16 @@
         {{ if .Site.DisqusShortname }}
           <div class="disqus-comments">
             {{ template "_internal/disqus.html" . }}
-          </div>
+          </div><!--/.disqus-comments-->
         {{ end }}
         {{ if .Site.Params.staticman }}
           <div class="staticman-comments">
             {{ partial "staticman-comments.html" . }}
-          </div>
+          </div><!--/.staticman-comments-->
         {{ end }}
       {{ end }}
 
-    </div>
-  </div>
-</div>
+    </div><!--/.col-lg-8 .col-lg-offset-2 .col-md-10 .col-md-offset-1-->
+  </div><!--/.row-->
+</div><!--/.container-->
 {{ end }}
