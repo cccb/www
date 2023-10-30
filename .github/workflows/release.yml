@@ -82,7 +82,7 @@ jobs:
       - name: Generate timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
       - name: Create Release Archive
-        uses: thedoctor0/zip-release@0.7.1
+        uses: thedoctor0/zip-release@0.7.5
         with:
           type: zip
           filename: ../release-staging-${{ env.timestamp }}.zip
@@ -110,7 +110,7 @@ jobs:
       - name: Generate timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
       - name: Create Release Archive
-        uses: thedoctor0/zip-release@0.7.1
+        uses: thedoctor0/zip-release@0.7.5
         with:
           type: zip
           filename: ../release-production-${{ env.timestamp }}.zip
