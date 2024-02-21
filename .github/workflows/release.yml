@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
       - name: Build pages
         run: hugo $(cat .hugo-params)
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         name: Upload pages
         with:
           name: pages
@@ -62,7 +62,7 @@ jobs:
         run: cp static/all.ics public/all.ics
       - name: Update homepage with latest event
         run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         name: Upload pages
         with:
           name: enhanced_pages
