@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
       - name: Build pages
         run: hugo $(cat .hugo-params)
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         name: Upload pages
         with:
           name: pages
@@ -44,7 +44,7 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           cache: 'pip' # caching pip dependencies
       - name: Install dependencies
@@ -52,7 +52,7 @@ jobs:
           pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: pages
           path: public/
@@ -62,7 +62,7 @@ jobs:
         run: cp static/all.ics public/all.ics
       - name: Update homepage with latest event
         run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         name: Upload pages
         with:
           name: enhanced_pages
@@ -75,20 +75,20 @@ jobs:
     if: github.ref == 'refs/heads/staging' && github.event_name == 'push'
     steps:
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: enhanced_pages
           path: public
       - name: Generate timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
       - name: Create Release Archive
-        uses: thedoctor0/zip-release@0.7.1
+        uses: thedoctor0/zip-release@0.7.6
         with:
           type: zip
           filename: ../release-staging-${{ env.timestamp }}.zip
           directory: public
       - name: Create Release
-        uses: ncipollo/release-action@v1.13.0
+        uses: ncipollo/release-action@v1.14.0
         with:
           tag: staging-${{ env.timestamp }}
           name: Website staging version ${{ env.timestamp }}
@@ -103,20 +103,20 @@ jobs:
     if: github.ref == 'refs/heads/production' && github.event_name == 'push'
     steps:
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: enhanced_pages
           path: public
       - name: Generate timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H%M%SZ')" >> $GITHUB_ENV
       - name: Create Release Archive
-        uses: thedoctor0/zip-release@0.7.1
+        uses: thedoctor0/zip-release@0.7.6
         with:
           type: zip
           filename: ../release-production-${{ env.timestamp }}.zip
           directory: public
       - name: Create Release
-        uses: ncipollo/release-action@v1.13.0
+        uses: ncipollo/release-action@v1.14.0
         with:
           makeLatest: true
           tag: production-${{ env.timestamp }}
