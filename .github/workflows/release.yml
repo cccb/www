@@ -52,7 +52,7 @@ jobs:
           pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: pages
           path: public/
@@ -75,7 +75,7 @@ jobs:
     if: github.ref == 'refs/heads/staging' && github.event_name == 'push'
     steps:
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: enhanced_pages
           path: public
@@ -103,7 +103,7 @@ jobs:
     if: github.ref == 'refs/heads/production' && github.event_name == 'push'
     steps:
       - name: Download pages
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: enhanced_pages
           path: public
