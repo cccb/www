@@ -4,10 +4,10 @@ subtitle: "Instrument der internen Konsensfindung"
 date: 2018-05-18T01:11:54+02:00
 dtstart: 20180704T200000
 dtend:   20180704T220000
-rrule:   "FREQ=MONTHLY;BYSETPOS=1;BYDAY=WE;INTERVAL=1"
+rrule:   "FREQ=MONTHLY;BYDAY=2TU,4TU;INTERVAL=1;WKST=MO"
 ---
 
-Das Plenum findet in der Regel am ersten Mittwoch des Monats ab 20:00 Uhr in den Clubräumen
+Das Plenum findet in der Regel am 2. und 4. Dienstag im Monat ab 20:00 Uhr in den Clubräumen
 des CCCB statt.
 
 Als Instrument der internen Konsensbildung, bei dem Interna diskutiert werden,
