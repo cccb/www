@@ -98,3 +98,6 @@ $RECYCLE.BIN/
 .envrc
 shell.nix
 .direnv
+
+# Python
+.venv

@@ -5,4 +5,3 @@ hugo $(cat .hugo-params)
 upcoming="$(tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')"
 cp static/all.ics public/all.ics
 sed -i "s#CALENDAR#$upcoming#g" public/index.html
-
