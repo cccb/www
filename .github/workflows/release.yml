@@ -63,7 +63,10 @@ jobs:
       - name: Copy calendar to output dir
         run: cp static/all.ics public/all.ics
       - name: Update homepage with latest event
-        run: upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+        run: |
+          upcoming="$(python tools/gen_upcoming.py static/all.ics 20 5 | tr '\n' ' ')" && sed -i "s#CALENDAR#$upcoming#g" public/index.html
+          echo $upcoming
+          cat public/index.html
       - uses: actions/upload-artifact@v4
         name: Upload pages
         with:
