@@ -1,7 +1,7 @@
 ---
 title: "Tag Des Offenen Hackerspace"
 subtitle: "Der CCCB lädt ein zum kennenlernen und entdecken."
-date: 2025-03-29T13:00:00+02:00
+date: 2025-02-10T12:00:00+02:00
 dtstart:  20250329T130000
 dtend:    20250329T200000
 ---
