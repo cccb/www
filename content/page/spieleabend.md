@@ -7,8 +7,10 @@ dtend:    20250125T230000
 rrule:   "FREQ=MONTHLY;BYDAY=2SA,4SA;WKST=MO"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Dorfromantik spielen im CCCB](/img/club/dorfromantik-im-cccb.jpg)  
 
 **Jeden 2. und 4. Samstag im Monat ist ab 17 Uhr Spieleabend im Club.**
 Wenn ihr neu seid und den CCCB zum ersten Mal besuchen wollt, kommt am besten an einem Donnerstag zum [Club Discordia](/page/clubdiscordia/), da samstags nicht immer genug Leute da sind, um euch zu empfangen. Generell sind aber alle herzlich eingeladen, an den Bastelabenden vorbeizukommen.

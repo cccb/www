@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CCCB//Calendar//DE
+{{ with .Title }}
+X-WR-CALNAME:{{ . }}
+{{ end }}
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+{{ if .Date }}
+BEGIN:VEVENT
+UID:{{ .File.UniqueID }}@berlin.ccc.de
+DTSTAMP:{{ .Date.Format "20060102T150405Z" }}
+DTSTART:{{ .Date.Format "20060102T150405Z" }}
+{{ with .Params.event.end }}DTEND:{{ dateFormat "20060102T150405Z" . }}{{ end }}
+SUMMARY:{{ .Title }}
+DESCRIPTION:{{ .Summary | plainify }}
+URL:{{ .Permalink }}
+{{ with .Params.location }}LOCATION:{{ . }}{{ end }}
+END:VEVENT
+{{ end }}
+END:VCALENDAR

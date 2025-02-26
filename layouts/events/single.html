@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="max-w-prose mx-auto">
+  <h1 class="text-2xl font-bold">{{ .Title }}</h1>
+  {{ if .Params.subtitle }}
+  <h2 class="text-xl">{{ .Params.subtitle }}</h2>
+  {{ end }}
+  
+  <div class="mt-4 border p-4 bg-secondary-bg rounded">
+    {{ partial "talk-infobox" . }}
+  </div>
+  
+  <div class="mt-4 content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

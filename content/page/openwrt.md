@@ -7,8 +7,10 @@ dtend:    20250115T230000
 rrule:   "FREQ=MONTHLY;BYDAY=3WE;WKST=MO"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Verschiedene Platinen im CCCB](/img/club/42300970272_667569d239.jpg)
 
 **Jeden 3. Mittwoch im Monat ab 20 Uhr** treffen sich die OpenWrt begeisterten und die es werden wollen zum OpenWrt Stammtisch im CCCB. 
 

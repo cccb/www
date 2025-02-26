@@ -4,7 +4,7 @@ subtitle: "Chaos Computer Club Berlin e. V. / CCCB e. V."
 date: 2019-05-14T10:00:00+02:00
 menu:
   main:
-    parent: "verein"
+    parent: "Mitgliedschaft"
 ---
 
 _Stand: 16. April 2023_

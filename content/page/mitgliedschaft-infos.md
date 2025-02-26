@@ -1,10 +1,10 @@
 ---
-title: "Mitgliedschaft"
+title: "Allgemeine Infos zur Mitgliedschaft"
 subtitle: "Alles rund ums Mitmachen beim CCCB"
 date: 2018-05-17T22:18:59+02:00
 menu:
   main:
-    parent: "verein"
+    parent: "Mitgliedschaft"
 ---
 
 Bitte beachte, dass Chaos Computer Club Berlin e.V. (kurz: CCCB) und Chaos Computer Club e.V. (kurz: CCC) zwei verschiedene Vereine sind: In diesem Text wird in einigen Sätzen von beiden Vereinen die Rede sein.

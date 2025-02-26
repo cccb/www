@@ -4,8 +4,9 @@ subtitle: "Der Kalender des CCCB"
 date: 2025-02-26T10:00:00+02:00
 menu:
   main:
-    parent: "verein"
+    parent: "Verein"
 ---
+![Ein Schild im CCCB mit der Aufschrift "Closed at Night"](/img/club/42303247602_56716d8704.jpg)
 
 <!-- Kalender-Widget -->
 <style>

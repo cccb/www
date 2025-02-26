@@ -9,8 +9,10 @@ dtend:    20220616T230000
 rrule:   "FREQ=WEEKLY;BYDAY=TH;INTERVAL=1"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Kochen in der CCCB Küche](/img/club/Kochen_in_der_CCCB_Küche.jpg)
 
 Der **Club Discordia** ist ein öffentliches Treffen in den Clubräumen des CCC Berlin. Jeder, der Lust hat, ist eingeladen, **Donnerstags so ab ca. 19 Uhr bis 24 Uhr** vorbeizukommen. Wer will, kann seinen Computer mitbringen und sollte das auch tun, sonst ist es langweilig wenn die Nerds erstmal nicht mit einem reden oder wenig los ist.
 

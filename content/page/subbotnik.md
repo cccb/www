@@ -7,8 +7,10 @@ dtend:    20241130T230000
 rrule:   "FREQ=MONTHLY;BYDAY=5SA;WKST=MO"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Ein possierlicher Nager im CCCB](/img/club/41627141884_48e4bb4dec.jpg)
 
 **Jeden 5. Samstag im Monat ist ab 17 Uhr Subbotnik im Club.**
 

@@ -4,7 +4,7 @@ subtitle: "Der Online-Auftritt des CCCB"
 date: 2025-02-26T10:00:00+02:00
 menu:
   main:
-    parent: "verein"
+    parent: "Verein"
 ---
 
 Der CCCB betreibt einen eigenen Mastodon-Account auf chaos.social, dem ihr hier gerne folgen könnt:

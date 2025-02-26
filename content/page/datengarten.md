@@ -4,8 +4,10 @@ subtitle: "Die Vortragsreihe im CCCB"
 date: 2018-05-17T22:41:48+02:00
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Technische Geräte unbekannten Hersprungs im CCCB](/img/club/27481915157_3cde02aaa3.jpg)  
 
 Der **Datengarten** ist eine Vortrags- und Projektreihe im Rahmen des [Club
 Discordia](/page/clubdiscordia/). Regelmäßige Datengärten finden an

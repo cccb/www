@@ -16,24 +16,23 @@
 #  weight = 10
 
 [[main]]
- name = "verein"
+ name = "Verein"
  pageRef = "verein"
  weight = 200
 
 [[main]]
- name = "veranstaltungen"
+ name = "Veranstaltungen"
  pageRef = "veranstaltungen"
  weight = 300
 
 [[main]]
- name = "News"
- pageRef = "post"
-
+ name = "Mitgliedschaft"
+ pageRef = "mitgliedschaft"
  weight = 400
 
 [[main]]
- name = "Impressum"
- pageRef = "page/impressum/"
+ name = "News"
+ pageRef = "post"
  weight = 500
 
 # -- Footer Menu --
@@ -50,3 +49,13 @@
   name = "Categories"
   pageRef = "categories"
   weight = 20
+
+[[footer]]
+ name = "Impressum"
+ pageRef = "impressum"
+ weight = 500
+
+[[footer]]
+ name = "Privacy"
+ pageRef = "datenschutz"
+ weight = 600

@@ -5,6 +5,8 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://berlin.ccc.de/"
 defaultContentLanguage = "de"
+RelativeURLs = true
+CanonifyURLs = true
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -35,8 +37,37 @@ enableEmoji = true
   filename = 'sitemap.xml'
   priority = 0.5
 
+[permalinks]
+  post = "/post/:year/:month/:day/:title/"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "Calendar", "RSS", "XML"]
+  page = ["HTML", "Calendar"]
+
+# Output Formats Configuration
+[outputFormats.Calendar]
+  mediaType = "text/calendar"
+  baseName = "index"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.XML]
+  mediaType = "application/xml"
+  baseName = "index"
+  isPlainText = true
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+
+# Media Types Configuration
+[mediaTypes]
+  [mediaTypes."text/calendar"]
+    suffixes = ["ics"]
+  [mediaTypes."application/rss"]
+    suffixes = ["rss"]
+  [mediaTypes."application/xml"]
+    suffixes = ["xml"]
 
 [related]
   threshold = 0
