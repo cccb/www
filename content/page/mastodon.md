@@ -7,10 +7,16 @@ menu:
     parent: "verein"
 ---
 
-{{< figure src="/img/Mastodon_mascot_vector_version.svg" title=" Zeichnung eines Maskottchens für das soziale Netzwerk Mastodon (Bild von WikiMedia Commons - Veröffentlicht unter GNU AGPL)" >}}
-
 Der CCCB betreibt einen eigenen Mastodon-Account auf chaos.social, dem ihr hier gerne folgen könnt:
 https://chaos.social/@clubdiscordia
+
+{{< figure
+    src="/img/Mastodon_mascot_vector_version.svg"
+    alt="Mastodon Maskottchen - Bild von WikiMedia Commons (GNU AGPL)"
+    width=50%
+>}}
+
+_Mastodon Maskottchen - Bild von WikiMedia Commons (GNU AGPL)_
 
 Wir hatten früher einen Bluesky- und einen Twitter-Account, aber da wir diese beiden Plattformen aber nicht unterstützen wollen, sind wir nur noch auf Mastodon. Aus Archivierungsgründen sind sie aber noch online:
 
