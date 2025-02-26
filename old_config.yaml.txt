@@ -1,13 +1,13 @@
 languageCode: "de-de"
-title: "Chaos Computer Club Berlin"
-theme: "beautifulhugo"
+# title: "Chaos Computer Club Berlin"
+theme: "blowfish"
 RelativeURLs: true
 CanonifyURLs: true
 
 Params:
   license: "CC-BY"
   subtitle: "Willkommen! Wir sind ein Erfa-Kreis des Chaos Computer Club e.V. und die örtliche Niederlassung des CCC in Berlin."
-  logo: "img/logo.png"
+  logo: "img/avatar-CCCB-Logo.png"
   favicon: "img/favicon.ico"
   dateFormat: "January 2, 2006"
   commit: false

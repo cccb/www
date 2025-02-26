@@ -1,3 +1,7 @@
 [submodule "beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/cccb/beautifulhugo.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

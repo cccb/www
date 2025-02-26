@@ -2,6 +2,9 @@
 title: "Beitragsordnung"
 subtitle: "Chaos Computer Club Berlin / CCC(B) e.V."
 date: 2020-01-19T10:00:00+02:00
+menu:
+  main:
+    parent: "Mitgliedschaft"
 ---
 
 _Stand: 19. Januar 2020_

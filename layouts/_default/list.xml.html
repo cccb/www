@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<events>
+  {{ range .Pages }}
+  <event>
+    <title>{{ .Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <date>{{ .Date.Format "2006-01-02" }}</date>
+    <description>{{ .Summary | plainify }}</description>
+    {{ with .Params.location }}<location>{{ . }}</location>{{ end }}
+  </event>
+  {{ end }}
+</events>

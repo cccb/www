@@ -8,7 +8,7 @@ date: 2020-02-27T01:00:00+02:00
 #location: "CCCB"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
 
 ![Chaosradio logo](/img/chaosradio.png)

@@ -1,5 +1,5 @@
 ---
-title: "Plenum"
+title: "Plenum (club closed, members only)"
 subtitle: "Instrument der internen Konsensfindung"
 date: 2018-05-18T01:11:54+02:00
 dtstart: 20180704T200000
@@ -11,5 +11,5 @@ Das Plenum findet in der Regel am 2. und 4. Dienstag im Monat ab 20:00 Uhr in de
 des CCCB statt.
 
 Als Instrument der internen Konsensbildung, bei dem Interna diskutiert werden,
-richtet sich das Plenum aussließlich an Mitglieder oder explizit eingeladene Gäste.
+richtet sich das Plenum **aussließlich an Mitglieder oder explizit eingeladene Gäste**.
 

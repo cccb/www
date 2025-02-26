@@ -7,7 +7,7 @@ date: 2018-05-18T01:11:54+02:00
 #rrule:   "FREQ=MONTHLY;BYSETPOS=1;BYDAY=TH;INTERVAL=1"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
 
 ![Chaos Macht Schule Logo](/img/cms-logo.jpg "Chaos Macht Schule Logo")

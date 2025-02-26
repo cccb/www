@@ -3,7 +3,7 @@ title: "Anfahrt"
 date: 2018-05-17T23:04:10+02:00
 menu:
   main:
-    parent: "verein"
+    parent: "Verein"
 ---
 
 # Allgemeine Hinweise
@@ -12,7 +12,11 @@ Die Clubräume liegen im Hinterhof der **Marienstr. 11, 10117 Berlin** ([Google]
 
 # Nahbereichskarte
 
-{{< figure src="/img/anfahrt.jpg" title="Anfahrtskarte CCCB (Daten von OpenStreetMap - Veröffentlicht unter ODbL)" >}}
+{{< figure
+    src="/img/Weg_zum_CCCB.png"
+    title="Fußweg vom S Friedrichstraße zum CCCB"
+    alt="Fußweg vom S Friedrichstraße zum CCCB"
+>}}
 
 # Ich reise an...
 

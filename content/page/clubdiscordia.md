@@ -9,16 +9,22 @@ dtend:    20220616T230000
 rrule:   "FREQ=WEEKLY;BYDAY=TH;INTERVAL=1"
 menu:
   main:
-    parent: "veranstaltungen"
+    parent: "Veranstaltungen"
 ---
+
+![Kochen in der CCCB Küche](/img/club/Kochen_in_der_CCCB_Küche.jpg)
 
 Der **Club Discordia** ist ein öffentliches Treffen in den Clubräumen des CCC Berlin. Jeder, der Lust hat, ist eingeladen, **Donnerstags so ab ca. 19 Uhr bis 24 Uhr** vorbeizukommen. Wer will, kann seinen Computer mitbringen und sollte das auch tun, sonst ist es langweilig wenn die Nerds erstmal nicht mit einem reden oder wenig los ist.
 
-In den Clubräumen gibt es performantes Internet mit WLAN und etwas zwischenmenschliche Kommunikation. Vor allem ohne Traffic Shaping immer wieder ein Genuss: Das kommunikative Spiel **Findet den Sauger!**.
+In den Clubräumen gibt es performantes Internet mit WLAN und etwas zwischenmenschliche Kommunikation.
 
-Hin und wieder wurde auch beobachtet, dass im Club gekocht wurde, die notwendige Hardware steht zur Verfügung.
+Hin und wieder wurde auch beobachtet, dass im Club gekocht wurde, die notwendige Hardware steht zwar zur Verfügung, aber momentan nur begrenzt, da die Küche gerade umgebaut wird:
 
-Im Rahmen des Club Discordia findet auch gelegentlich unsere öffentliche Vortrags-/Workshopveranstaltung, der Datengarten statt.
+https://chaos.social/@nd/114050233067773396
+
+Im Rahmen des Club Discordia findet auch gelegentlich unsere öffentliche Vortrags-/Workshopveranstaltung, der [Datengarten](/page/datengarten/) statt.
+
+Außerdem gibt es im Memberbereich ein E-Lab mit 3D-Drucker, Lötstation und vielen anderen nützlichen Werkzeugen zum Basteln, die ihr mit Erlaubnis auch benutzen dürft.
 
 Bis zum nächsten Donnerstag. Viel Spaß am Gerät! 
 
