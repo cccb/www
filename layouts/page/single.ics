@@ -36,7 +36,7 @@ EXDATE;TZID=Europe/Berlin:{{.}}
 {{end -}}
 LOCATION:{{with .Params.location}}{{.}}{{else}}CCCB{{end}}
 URL:{{.Permalink}}
-DESCRIPTION:{{.Permalink}}
+DESCRIPTION:{{- .Content | plainify | replaceRE "\n" "\\n" | replaceRE ":" "\\:" -}}
 END:VEVENT
 END:VCALENDAR
 {{end -}}
