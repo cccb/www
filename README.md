@@ -4,6 +4,12 @@
 
 This is the website of the CCCB.
 
+## ⚠️ Important:
+This is the old website repository, which is now archived.
+
+You can find the new one at this link: https://git.berlin.ccc.de/cccb-website-team/www 
+
+
 ## Getting started
 
 1. Get Hugo: <https://gohugo.io/getting-started/installing>
